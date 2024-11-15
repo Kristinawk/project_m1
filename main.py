@@ -24,3 +24,4 @@ if __name__ == '__main__':
     DF_DISTANCE = md.add_distance_col(DF_SAMPLE, "distance", "latitude", "longitude", "bm_latitude", "bm_longitude")
     DF_GROUPED = md.group_by(DF_DISTANCE, "id_x", "distance")
     DF_OUTPUT = md.build_output_table(DF_GROUPED, DF_MONUMENTS, DF_BICIMAD, PLACE, TABLE_COLS, FILE_PATH)
+    print(DF_OUTPUT.loc[DF_OUTPUT['Place of Interest'].isin(['A los abuelos y abuelas'])])
