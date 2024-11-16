@@ -3,6 +3,7 @@ import pandas as pd
 import requests
 from shapely.geometry import Point
 import geopandas as gpd
+import argparse
 
 PATH = './data/bicimad_stations.csv'
 GEO = 'geometry.coordinates'
@@ -81,7 +82,7 @@ def group_by(df, col_group, col_agg):
 
 # 3.c) Build final table with all necesary columns and create csv
 
-def build_output_table(df_grouped, df_places, df_bici, place, table_cols, file_path):
+def build_output_table(df_grouped, df_places, df_bici, place, table_cols):
     
     res1 = df_grouped.merge(df_places[['id', 'title', 'street-address']],
                                 how='inner', left_on='id_x', right_on='id').drop(columns = ['id']) # add place columns
@@ -100,7 +101,31 @@ def build_output_table(df_grouped, df_places, df_bici, place, table_cols, file_p
     res3 = res3[cols] 
 
     res3.columns = table_cols # rename columns
-    
-    res3.to_csv(file_path, index=False) # create csv
         
     return  res3
+
+
+# 4. We want to give user two possibilities:
+# -get full table --> pipeline 1
+# -get one line from the table --> pipeline 2
+
+# 4.a) Pipeline 1
+
+def save_csv(df, file_path):
+    df.to_csv(file_path, index=False)
+    return print("Find here the nearest BiciMad station to monuments of Madrid: https://github.com/Kristinawk/project_m1/blob/main/data/nearest_bicimad.csv")
+
+# 4.b) Pipeline 2
+
+def user_query(df):
+    user_query = input('Enter a Place of Interest: ')
+    df_query = df.loc[df['Place of Interest'].isin([user_query])]
+    return print(df_query)
+
+# 4.c) Define argparse
+
+def argument_parser():
+    parser = argparse.ArgumentParser(description= 'Application to find the nearest BiciMad station to a Place of Interest' )
+    parser.add_argument('-f', '--function', action='store_true')
+    args = parser.parse_args()
+    return args

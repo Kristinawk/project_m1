@@ -23,5 +23,9 @@ if __name__ == '__main__':
     DF_SAMPLE = DF_FULL_DATASET.loc[:791, :].copy() # we create a sample to shorten execution time in the next step
     DF_DISTANCE = md.add_distance_col(DF_SAMPLE, "distance", "latitude", "longitude", "bm_latitude", "bm_longitude")
     DF_GROUPED = md.group_by(DF_DISTANCE, "id_x", "distance")
-    DF_OUTPUT = md.build_output_table(DF_GROUPED, DF_MONUMENTS, DF_BICIMAD, PLACE, TABLE_COLS, FILE_PATH)
-    print(DF_OUTPUT.loc[DF_OUTPUT['Place of Interest'].isin(['A los abuelos y abuelas'])])
+    DF_OUTPUT = md.build_output_table(DF_GROUPED, DF_MONUMENTS, DF_BICIMAD, PLACE, TABLE_COLS)
+    
+    if md.argument_parser().function:
+        md.user_query(DF_OUTPUT)
+    else:
+        md.save_csv(DF_OUTPUT, FILE_PATH)
