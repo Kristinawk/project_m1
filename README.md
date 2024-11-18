@@ -22,7 +22,11 @@ To run the app, follow these steps:
 4. *Only for developers - Re-create the full table `python main.py -f "calc"`
 
 5. Launch the query  
- a) get the full table `python main.py -f "table"`
-
- b) get the table for a specific place of interest `python main.py -f "place"`
-
+   a) Get the full table  
+      ```bash
+      python main.py -f "table"
+      ```  
+   b) Get the table for a specific place of interest  
+      ```bash
+      python main.py -f "place"
+      ```
