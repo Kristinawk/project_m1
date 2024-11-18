@@ -23,8 +23,6 @@ To run the app, follow these steps:
 
 5. Launch the query  
    a) Get the full table  
-      python main.py -f "table"
-      ```  
+      `python main.py -f "table"`  
    b) Get the table for a specific place of interest  
-      python main.py -f "place"
-      ```
+      `python main.py -f "place"`  
