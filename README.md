@@ -5,29 +5,29 @@ FindBiciMAD is a Python Application that allows potential user to find the neare
 FindBiciMAD holds the benefit of **modularity**, allowing to execute the pipeline in two steps, which significantly improves user experience.
 
 # Technical specifications:
-The input of this app is a csv file with list of BiciMAD stations and Madrid City Hall API REST with a set of places of interest. Python script combines the information of both datasources, calculates the distance to each BiciMad station and returns the nearest one to each place of interest. The table is stored as a csv file and the user can access this information with argparse method.
+The input of this app is a csv file with the list of BiciMAD stations and Madrid City Hall API REST with a set of places of interest. Python script combines the information of both datasources, calculates the distance to each BiciMad station and returns the nearest one to each place of interest. The table is stored as csv file and the user can access this information with argparse method.
 
 # Configuration:
-Hereby the list of the libraries required to run FindBiciMAD: pandas, requests, geopandas and argparse.
+Hereby the list of libraries required to run FindBiciMAD: pandas, requests, geopandas and argparse.
 
 # How to build:
 To run the app, follow these steps:
 
 1. Open a terminal (Command Prompt or PowerShell for Windows, Terminal for macOS or Linux)
 
-2. Ensure Git is installed
+2. Ensure Git is installed \n
 Visit https://git-scm.com to download and install console Git if not already installed
 
-3. Clone the repository
+3. Clone the repository \n
 git clone https://github.com/Kristinawk/project_m1
 
-4. *Only for developers - Re-create the full table
+4. *Only for developers - Re-create the full table \n
 python main.py -f "calc"
 
-5. Launch the query:
- a) get the full table
- python main.py -f "table"
+5. Launch the query \n
+ a) get the full table \n
+ python main.py -f "table" \n
 
- b) get the table for a specific place of interest
+ b) get the table for a specific place of interest \n
  python main.py -f "place"
 
