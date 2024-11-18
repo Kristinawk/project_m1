@@ -22,8 +22,7 @@ if __name__ == '__main__':
         DF_BICIMAD = md.normalize_csv(DF_CSV, GEO, 'bm_longitude', 'bm_latitude')
         DF_MONUMENTS = md.normalize_dataset(DF_DATASET)
         DF_FULL_DATASET = md.merge(DF_MONUMENTS, DF_BICIMAD)
-        DF_SAMPLE = DF_FULL_DATASET.loc[:791, :].copy() # we create a sample to shorten execution time in the next step
-        DF_DISTANCE = md.add_distance_col(DF_SAMPLE, "distance", "latitude", "longitude", "bm_latitude", "bm_longitude")
+        DF_DISTANCE = md.add_distance_col(DF_FULL_DATASET, "distance", "latitude", "longitude", "bm_latitude", "bm_longitude")
         DF_GROUPED = md.group_by(DF_DISTANCE, "id_x", "distance")
         DF_OUTPUT = md.build_output_table(DF_GROUPED, DF_MONUMENTS, DF_BICIMAD, PLACE, TABLE_COLS, PATH_OUTPUT)
     elif mq.argument_parser().function == "table":

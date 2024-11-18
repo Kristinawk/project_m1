@@ -25,7 +25,7 @@ def string_to_coordinates(string):
     return list_coordinates
 
 def normalize_csv(df, orig_column, new_col1, new_col2):
-    df[orig_column] = df[orig_column].apply(lambda row: string_to_coordinates(row))
+    df[orig_column] = df[orig_column].apply(string_to_coordinates)
     df[new_col1] = df[orig_column].apply(lambda row: row[0])
     df[new_col2] = df[orig_column].apply(lambda row: row[1])
     return df
@@ -41,7 +41,7 @@ def get_dataset(api_endpoint, dataset):
 def normalize_dataset(df):
     df = df.dropna() # 1 drop nulls
     for column in COLUMNS_2FIX: # 2 normalize dictionaries within columns
-        df = pd.concat([df.drop(columns = [column]), df[column].apply(lambda x: pd.Series(x))], axis = 1)
+        df = pd.concat([df.drop(columns = [column]), df[column].apply(pd.Series)], axis = 1)
     return df
 
 # 2.c) Build main df as cross join of bicimad stations and places of interest

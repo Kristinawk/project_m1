@@ -1,4 +1,1784 @@
 Place of Interest,Type of place,Place address,BiciMAD station,Station locaiton,Available bikes
+Fuente de Sevilla,Monuments,GLORIETA SEVILLA ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Francisco de Paula Martí Mora,Monuments,Pº El Salvador ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Ruperto Chapí,Monuments,Pº Duque de Fernán Núñez ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Cuba,Monuments,PASEO EL SALVADOR ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+General Martínez Campos,Monuments,Pza Guatemala ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Estanque óvalo del Retiro,Monuments,Pº Panamá ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Ría Norte y estanque de la Montaña Artificial del Retiro,Monuments,Pº Duque de Fernán Núñez ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Puerta de la América Española del Retiro,Monuments,Pza Menéndez Pelayo 10,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Puerta de O´Donnell del Retiro,Monuments,C O'Donnell ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Justo Arosemena,Monuments,Pº Panamá ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Montaña Artificial del Retiro,Monuments,Pº Duque de Fernán Núñez ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Casa del Pescador del Retiro,Monuments,Pº Duque de Fernán Núñez ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Ruinas de la ermita de san Pelayo y san Isidoro,Monuments, ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Virgen de los Reyes,Monuments,Gta Sevilla ,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Consuelo Rubio,Monuments,C O'Donnell 11,85 - Puerta de Madrid,Avenida de Menéndez Pelayo esquina calle O'Donnell,7
+Escultura a la  Universidad en Cantoblanco,Monuments,CIUDAD UNIVERSITARIA AUTONOMA ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Santiago Ramón y Cajal,Monuments,CALLE SAN MODESTO 1,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Sagrado Corazón de Jesús,Monuments,PLAZA MADRE MARIA ANA MOGAS 12,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+La Paz,Monuments,Pº Castellana 261,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Grupo escultórico a la Universidad en Cantoblanco,Monuments, ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Serie escultórica en la Universidad de Cantoblanco,Monuments, ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Mirasierra,Monuments,CALLE NURIA 29,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Fuente del Hospital La Paz,Monuments,Pº Castellana 261,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Monumento a los caídos de Fuencarral,Monuments,PLAZA MADRE MARIA ANA MOGAS 2,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Thomas Alva Edison,Monuments, ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Escudo Casa Parroquial San Miguel Arcángel,Monuments,CALLE ISLAS BERMUDAS 28,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Máquina de vapor,Monuments, ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Lázaro Cárdenas,Monuments,Pza Lázaro Cárdenas ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Almirante Miguel Grau,Monuments, ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+León Felipe,Monuments, ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Juan Santamaría,Monuments,Pza Juan Santamaría ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Estanque con surtidor del parque Norte,Monuments,C Arzobispo Morcillo ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Fuente del parque Fuencarral,Monuments, ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Héroes de la Independencia de 1808,Monuments,C Isla de Java ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Plaza de Juan Santamaría,Monuments,Pza Juan Santamaría ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Monolito de Pizarra I,Monuments,Avda Monforte de Lemos ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Colegio Príncipe Felipe,Monuments,AVENIDA MONFORTE DE LEMOS 24,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Homenaje a Miró,Monuments, ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Princesa de Yaiza,Monuments, ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Ana Tutor,Monuments,Avda Ventisquero de la Condesa ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Puerta de la Ilustración,Monuments,C Ginzo de Limia ,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Mirasierra Suites Hotel,Monuments,C Alfredo Marqueríe 43,217 - Pedro Rico,Calle Pedro Rico nº 4,0
+Maestro Guillermo Valencia,Monuments,Avda Séneca 6,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Miguel Antonio Caro,Monuments,Avda Séneca 6,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Hernán Cortés,Monuments,Avda Séneca 4,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Santísima Virgen,Monuments,PASEO CAMOENS Y VALERO ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Inauguración Colegio Mayor Iberoamericano Nuestra Señora de Guadalupe,Monuments,Avda Séneca 6,112 - Paseo de Moret,Paseo de Moret nº 11,13
+José Gervasio Artigas,Monuments,PASEO RUPERTO CHAPI ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Simón Bolívar,Monuments, ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Eugenio María de Hostos,Monuments, ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+"Jaime I El Conquistador, Rey de Aragón",Monuments,C Francisco y Jacinto Alcántara ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Mariscal Santa Cruz Calahumana,Monuments,Avda Séneca ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Concepción Arenal,Monuments,Pº Moret ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Elena Fortún,Monuments,PASEO RUPERTO CHAPI ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Escultura Puerta de Madrid,Monuments, ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Miguel Hidalgo,Monuments, ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Al Maestro,Monuments, ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Miguel Hernández,Monuments,Pº Ruperto Chapí ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Estanque con surtidor y ría del parque del Oeste,Monuments,PASEO RUPERTO CHAPI ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Juan de Villanueva,Monuments,Pº Camoens y Valero ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Enrique Tierno Galván,Monuments,C Ferraz 79,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Mapa Península Ibérica,Monuments, ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Fuente de la colonia Manzanares,Monuments,C Ribera del Manzanares ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Eugenio de Santa Cruz y Espejo,Monuments,PASEO CAMOENS Y VALERO 2,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Juan Pablo Duarte y Díez,Monuments, ,112 - Paseo de Moret,Paseo de Moret nº 11,13
+Francisco de Asis de Borbón,Monuments,PASEO VIRGEN DEL PUERTO 1,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Sagrado Corazón de Jesús,Monuments,GLORIETA SAN ANTONIO DE LA FLORIDA 1,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+El Bosque de los Tótems,Monuments,Pº Florida 2,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Francisco de Goya,Monuments,Gta San Antonio de la Florida ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Fuente Casa de Campo,Monuments, ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Fuente de las Moreras,Monuments,Gta Puerta Moreras ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Fuente de la Piña en la Casa de Campo,Monuments,Pº Torrecilla ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Fuente en la glorieta Puerta Moreras,Monuments,Gta Puerta Moreras ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+San Pol de Mar,Monuments,C San Pol de Mar ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Escudo de la Villa,Monuments,Gta Puerta del Río (Parque de la Casa de Campo) ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Puerta de San Vicente,Monuments,Gta San Vicente ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Virgen del Carmen San Pol de Mar,Monuments,C San Pol de Mar ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Seis columnas jónicas,Monuments,C Aniceto Marinas 60,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Puerta del Rey,Monuments,Pº Marqués de Monistrol ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Puerta del Reservado Grande,Monuments,Pº Marqués de Monistrol ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Galería de grutas del jardín de Felipe II,Monuments,Pº Embarcadero ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Explanada de la Selección Española de Fútbol,Monuments, Explanada de la Selección Española de Fútbol ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Puerta San Vicente. Panel informativo,Monuments,Gta San Vicente ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Túnel de Bonaparte. Panel informativo,Monuments,Pº Ermita de la Virgen del Puerto ,161 - Paseo de la Florida,Paseo de la Florida nº 8,18
+Jaime I El Conquistador,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Alonso III,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Alonso V,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Alfonso VI,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Alfonso VIII,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Antonio Cánovas del Castillo,Monuments,Pza Marina Española ,30 - San Quintín,Calle Pavía nº 6,16
+Carolus III Hispaniarum Rex,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Felipe II,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Felipe IV,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Fernando I,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Fernando III El Santo,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Fernando V El Católico,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Fernán González 1er Conde Independiente de Castilla,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Félix Lope de Vega Carpio,Monuments,Pza Encarnación ,30 - San Quintín,Calle Pavía nº 6,16
+Cabo Luis Noval,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Ordoño I,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Ordoño II,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Ramiro I. Primer Rey de Aragón,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Ramiro II. Rey de León,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Sancha. Reina de León,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Wifredo. El Velloso,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Fuentes de la plaza de Oriente,Monuments,Pza Oriente ,30 - San Quintín,Calle Pavía nº 6,16
+Héroes del Dos de Mayo,Monuments,C Bailén ,30 - San Quintín,Calle Pavía nº 6,16
+Hilarión Eslava y Emilio Arrieta,Monuments,C San Quintín 8,30 - San Quintín,Calle Pavía nº 6,16
+Julián Gayarre,Monuments,CALLE PAVIA 2,30 - San Quintín,Calle Pavía nº 6,16
+Jose Gomez 'Gallito',Monuments,C Arrieta 14,30 - San Quintín,Calle Pavía nº 6,16
+Ramón Gómez de la Serna,Monuments,C Guillermo Rolland 7,30 - San Quintín,Calle Pavía nº 6,16
+Jesús de Monasterio y Agüeros,Monuments,C Bailén 11,30 - San Quintín,Calle Pavía nº 6,16
+Amado Nervo,Monuments,C Bailén 15,30 - San Quintín,Calle Pavía nº 6,16
+Juan Valera y Alcalá Galiano,Monuments,Ctra Santo Domingo 3,30 - San Quintín,Calle Pavía nº 6,16
+Josefina Romo,Monuments,C Arrieta 14,30 - San Quintín,Calle Pavía nº 6,16
+Julián Gayarre,Monuments,PLAZA ORIENTE 6,30 - San Quintín,Calle Pavía nº 6,16
+Lapida prohibición (fachada convento de la Encarnación),Monuments,Pza Encarnación 1,30 - San Quintín,Calle Pavía nº 6,16
+Restos de cerca en la calle Bailén,Monuments,C Bailén 3,30 - San Quintín,Calle Pavía nº 6,16
+Isabel la Católica,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Escultura ecuestre alegórica I Jardines de Sabatini,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Escultura ecuestre alegórica II Jardines de Sabatini,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Estanque central Sabatini,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Fuentes gemelas de los jardines de Sabatini,Monuments, ,30 - San Quintín,Calle Pavía nº 6,16
+Real Monasterio de la Encarnación,Monuments,Pza Encarnación 1,30 - San Quintín,Calle Pavía nº 6,16
+Juan Pablo II,Monuments,C Bailén ,166 - Segovia 26,Calle Segovia nº 26,8
+Mariano José de Larra,Monuments,C Bailén ,166 - Segovia 26,Calle Segovia nº 26,8
+Atentado boda real Alfonso XIII,Monuments,C Mayor 79,166 - Segovia 26,Calle Segovia nº 26,8
+Fuente pilón Cuesta Ciegos,Monuments,Ctra Ciegos ,166 - Segovia 26,Calle Segovia nº 26,8
+Fuente mural en la Cuesta de la Vega,Monuments,Gta Boccherini ,166 - Segovia 26,Calle Segovia nº 26,8
+Estanque rectangular Vistillas,Monuments,Pza Gabriel Miró ,166 - Segovia 26,Calle Segovia nº 26,8
+Humanistas Españoles,Monuments,C Villa 2,166 - Segovia 26,Calle Segovia nº 26,8
+Virgen de la Almudena (Réplica),Monuments,Cta Vega ,166 - Segovia 26,Calle Segovia nº 26,8
+Miguel de Cervantes,Monuments,C Villa 2,166 - Segovia 26,Calle Segovia nº 26,8
+Iglesia Santa María la Real de la Almudena,Monuments,C Mayor 88,166 - Segovia 26,Calle Segovia nº 26,8
+Fuente mural en la calle Segovia,Monuments,C Segovia 23,166 - Segovia 26,Calle Segovia nº 26,8
+Escudo de Madrid en piedra calle Segovia,Monuments,C Segovia 21,166 - Segovia 26,Calle Segovia nº 26,8
+Escudo de Madrid en mosaico,Monuments,C Segovia ,166 - Segovia 26,Calle Segovia nº 26,8
+Restos arqueológicos iglesia Almudena,Monuments,C Almudena ,166 - Segovia 26,Calle Segovia nº 26,8
+Maqueta iglesia Almudena,Monuments,C Almudena ,166 - Segovia 26,Calle Segovia nº 26,8
+El Vecino Curioso,Monuments,C Almudena ,166 - Segovia 26,Calle Segovia nº 26,8
+Muralla islámica,Monuments,Pza Emir Mohamed I ,166 - Segovia 26,Calle Segovia nº 26,8
+La Violetera,Monuments,Pza Gabriel Miró 1,166 - Segovia 26,Calle Segovia nº 26,8
+Fuente del parque Emir Mohamed I,Monuments, ,166 - Segovia 26,Calle Segovia nº 26,8
+Maqueta muralla islámica,Monuments,Cta Cuesta de la Vega ,166 - Segovia 26,Calle Segovia nº 26,8
+Paulus,Monuments,PLAZA ARMERIA 1,166 - Segovia 26,Calle Segovia nº 26,8
+Petrus,Monuments,Pza Armería ,36 - Plaza Ramales,Plaza de Ramales,10
+Alonso I,Monuments,PLAZA ORIENTE 1,36 - Plaza Ramales,Plaza de Ramales,10
+Alonso II,Monuments,Pza Oriente ,36 - Plaza Ramales,Plaza de Ramales,10
+Íñigo Arista,Monuments,Pza Oriente ,36 - Plaza Ramales,Plaza de Ramales,10
+Ataulfo,Monuments,Pza Oriente ,36 - Plaza Ramales,Plaza de Ramales,10
+Eurico,Monuments,Pza Oriente ,36 - Plaza Ramales,Plaza de Ramales,10
+Leovigildo,Monuments,Pza Oriente ,36 - Plaza Ramales,Plaza de Ramales,10
+Capitán Ángel Melgar,Monuments, ,36 - Plaza Ramales,Plaza de Ramales,10
+"Pelayo, Rey de Asturias",Monuments,Pza Oriente ,36 - Plaza Ramales,Plaza de Ramales,10
+Ramiro I,Monuments,Pza Oriente ,36 - Plaza Ramales,Plaza de Ramales,10
+Suintila,Monuments,Pza Oriente ,36 - Plaza Ramales,Plaza de Ramales,10
+Wamba,Monuments,Pza Oriente ,36 - Plaza Ramales,Plaza de Ramales,10
+Gaspar Núñez de Arce,Monuments,C Cruzada 4,36 - Plaza Ramales,Plaza de Ramales,10
+Monolito a Diego Velázquez,Monuments,Pza Ramales ,36 - Plaza Ramales,Plaza de Ramales,10
+Fuente mural de la plaza Biombo,Monuments,Pza Biombo 4,36 - Plaza Ramales,Plaza de Ramales,10
+Restos iglesia San Juan Bautista,Monuments,Pza Ramales ,36 - Plaza Ramales,Plaza de Ramales,10
+Plaza de Oriente,Monuments,Pza Oriente 1,36 - Plaza Ramales,Plaza de Ramales,10
+Batalla de Lepanto,Monuments,C Lepanto 2,36 - Plaza Ramales,Plaza de Ramales,10
+Iglesia parroquial de San Juan,Monuments,Pza Ramales 1,36 - Plaza Ramales,Plaza de Ramales,10
+Monasterio de Santa Clara,Monuments,C Santiago 24,36 - Plaza Ramales,Plaza de Ramales,10
+Iglesia parroquial de Santiago,Monuments,C Santiago 4,36 - Plaza Ramales,Plaza de Ramales,10
+Frases en pavimento urbano eje Museo del Prado- Palacio de Oriente,Monuments,Pza Ángel 9,36 - Plaza Ramales,Plaza de Ramales,10
+Valle-Inclán. Cueva de Zaratustra,Monuments,C Mayor 84,36 - Plaza Ramales,Plaza de Ramales,10
+Francisco Piquer,Monuments,Pza Descalzas ,25a - Plaza de Celenque A,Plaza de Celenque nº 1,0
+Marqués Viudo de Pontejos,Monuments,Pza Descalzas ,25a - Plaza de Celenque A,Plaza de Celenque nº 1,0
+Pinturas murales Pasaje Pleyel,Monuments,C Mayor 6,25a - Plaza de Celenque A,Plaza de Celenque nº 1,0
+Partido Socialista Obrero Español,Monuments,C Tetuán 12,25a - Plaza de Celenque A,Plaza de Celenque nº 1,0
+Claudio Sánchez Albornoz,Monuments,PLAZA CELENQUE 1,25a - Plaza de Celenque A,Plaza de Celenque nº 1,0
+Mariblanca. Réplica Puerta del Sol,Monuments,Pza Puerta del Sol ,25a - Plaza de Celenque A,Plaza de Celenque nº 1,0
+Marqués de Villena,Monuments,PLAZA DESCALZAS 1,25a - Plaza de Celenque A,Plaza de Celenque nº 1,0
+Cavanilles,Monuments,Pza Murillo 2,81 - Cuesta de Moyano,Cuesta de Claudio Moyano,9
+Lagasca,Monuments,Pza Murillo 2,81 - Cuesta de Moyano,Cuesta de Claudio Moyano,9
+Claudio Moyano,Monuments,C Claudio Moyano ,81 - Cuesta de Moyano,Cuesta de Claudio Moyano,9
+Fuente nueva de la Alcachofa,Monuments,Pza Emperador Carlos V ,81 - Cuesta de Moyano,Cuesta de Claudio Moyano,9
+Niños con jarrón en Atocha,Monuments,Pza Emperador Carlos V ,81 - Cuesta de Moyano,Cuesta de Claudio Moyano,9
+Simón de Rojas Clemente,Monuments,Pza Murillo 2,68 - Espalter,Calle Espalter nº 1,14
+Quer,Monuments,Pza Murillo 2,68 - Espalter,Calle Espalter nº 1,14
+Fuentecillas del Jardín Botánico,Monuments,Pza Murillo 2,68 - Espalter,Calle Espalter nº 1,14
+Fuentes estrelladas del Jardín Botánico,Monuments,Pza Murillo 2,68 - Espalter,Calle Espalter nº 1,14
+Puerta norte del Jardín Botánico,Monuments,Pza Murillo 2,68 - Espalter,Calle Espalter nº 1,14
+Goya,Monuments,C Felipe IV ,68 - Espalter,Calle Espalter nº 1,14
+Murillo,Monuments,Pza Murillo ,68 - Espalter,Calle Espalter nº 1,14
+Velázquez,Monuments,Pº Prado ,68 - Espalter,Calle Espalter nº 1,14
+Alférez Provisional,Monuments,CALLE FELIPE IV 1,68 - Espalter,Calle Espalter nº 1,14
+Puerta de Murillo del Retiro,Monuments,C Alfonso XII ,68 - Espalter,Calle Espalter nº 1,14
+Un pintor para El Prado,Monuments,C Ruiz de Alarcón ,68 - Espalter,Calle Espalter nº 1,14
+Rey astur-leonés,Monuments,C Méndez Núñez 1,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Rey astur-leonés,Monuments,C Méndez Núñez 1,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Rey godo anterior a Leovigildo,Monuments,C Méndez Núñez 1,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Rey astur-leonés (probablemente Fruela I),Monuments,C Méndez Núñez 1,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Felipe IV,Monuments,C Méndez Núñez 1,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Luis I de España,Monuments,C Méndez Núñez 1,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Alonso I El Batallador,Monuments,Pº República Argentina ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Berenguela,Monuments,Pº República Argentina ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Carlos I de España y V de Alemania,Monuments,Pº República Argentina ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Carlos II,Monuments,Pº República Argentina ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Enrique II,Monuments,Pº República Argentina ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Fernando IV,Monuments,Pº República Argentina ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Gundemaro,Monuments,Pº República Argentina ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+María Cristina de Borbón-Dos Sicilias,Monuments,C Felipe IV ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Sancho IV,Monuments,Pº República Argentina ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Sancho IV. El Bravo,Monuments,PASEO ARGENTINA 2,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Fuente de la Alcachofa,Monuments,Pza Honduras ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Estanque de las Campanillas,Monuments,Pº Paraguay ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Fuentes de la Alcachofa del Parterre,Monuments,Pº Parterre ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Puerta de España del Retiro,Monuments,C Alfonso XII ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Puerta de Felipe IV del Retiro,Monuments,C Alfonso XII 3,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Mariano Carderera y Potó,Monuments,C Moreto 1,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Jarrones Franceses del Parterre,Monuments,Pº Parterre ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+General Francisco Morazán,Monuments,Pza Honduras ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Joaquín Turina,Monuments,C Alfonso XII 7,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Antonio Maura,Monuments,C Antonio Maura 18,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Mujer sedente,Monuments, ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Dimitar Dimov,Monuments,Pza Lealtad 2,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Pedestal del paseo de los Reyes,Monuments,Pº República Argentina ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Escuela de Estudios Superiores del Magisterio,Monuments,C Montalbán 12,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Mariscal Francisco Solano López,Monuments,Pº Paraguay ,65 - Antonio Maura,Calle Antonio Maura nº 15,6
+Carlos Linneo (Carl von Linne),Monuments,Pza Murillo 2,69 - Puerta del Ángel Caído,Avenida de Alfonso XII nº 54,5
+Pío Baroja,Monuments,C Claudio Moyano ,69 - Puerta del Ángel Caído,Avenida de Alfonso XII nº 54,5
+José Anselmo Clavé,Monuments,C José Anselmo Clavé 1,69 - Puerta del Ángel Caído,Avenida de Alfonso XII nº 54,5
+Puerta del Ángel Caído del Retiro,Monuments,C Alfonso XII 5,69 - Puerta del Ángel Caído,Avenida de Alfonso XII nº 54,5
+Noria de la Fábrica de Porcelana,Monuments,Pº Duque de Fernán Núñez ,69 - Puerta del Ángel Caído,Avenida de Alfonso XII nº 54,5
+Juantxu Rodríguez,Monuments, ,69 - Puerta del Ángel Caído,Avenida de Alfonso XII nº 54,5
+Madre e hija,Monuments,C Portal de Belén ,83 - Pío Baroja,Calle Pío Baroja nº 10,14
+Gerardo Diego,Monuments,C Pío Baroja 4,83 - Pío Baroja,Calle Pío Baroja nº 10,14
+Dos Niños,Monuments,C Portal de Belén ,83 - Pío Baroja,Calle Pío Baroja nº 10,14
+Alfonso X El Sabio,Monuments,PASEO RECOLETOS 20,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Muñoz Degraín,Monuments,Pº Recoletos 20,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Cervantes,Monuments,Pº Recoletos 20,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Lope de Vega,Monuments,Pº Recoletos 20,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Luis Vives,Monuments,Pº Recoletos 20,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Nebrija,Monuments,Pº Recoletos 20,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+San Isidoro,Monuments,Pº Recoletos 20,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Venus,Monuments,Pº Recoletos ,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Fuente del palacio del marqués de Salamanca,Monuments,Pº Recoletos ,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Dos fuentes circulares de la Fundación BBVA,Monuments,Pº Recoletos ,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Fuente octogonal del palacio del marqués de Salamanca,Monuments,Pº Recoletos ,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Puertas Biblioteca y Museo Arqueológico Nacionales,Monuments,Pº Recoletos 20,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Ramón María del Valle-Inclán,Monuments,Pº Recoletos ,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Juan Valera,Monuments,Pº Recoletos ,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Al Libro,Monuments,Pº Recoletos ,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Reloj de sol Recoletos,Monuments,Pº Recoletos ,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
 "A Marca, promotor de la San Silvestre Vallecana",Monuments,Pº Recoletos ,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
-A los abuelos y abuelas,Monuments,C Alicún ,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,11
+Derechos del Niño,Monuments,Pº Recoletos ,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,15
+Berruguete,Monuments,C Serrano 13,107 - Columela,Calle Serrano nº 8,10
+Miguel Moya,Monuments,C Serrano 4,107 - Columela,Calle Serrano nº 8,10
+Campoamor,Monuments,C Recoletos 17,107 - Columela,Calle Serrano nº 8,10
+Velázquez,Monuments,C Serrano 13,106b - Colón B,Calle Serrano nº 34,5
+Macros Descubrimiento,Monuments,Pza Colón ,106b - Colón B,Calle Serrano nº 34,5
+Estanque Descubrimiento,Monuments,Pza Colón ,106b - Colón B,Calle Serrano nº 34,5
+Blanca de los Ríos,Monuments,C Jorge Juan 7,106b - Colón B,Calle Serrano nº 34,5
+San Isidro,Monuments,PASEO CASTELLANA 112,136 - Castellana 106,Paseo de la Castellana nº 106,13
+Manuel del Palacio,Monuments,PLAZA POETA MANUEL DEL PALACIO 1,136 - Castellana 106,Paseo de la Castellana nº 106,13
+Francisco Javier,Monuments,CALLE MARTIRES DE LA VENTILLA 34,248 - Torre Cepsa,Calle Sinesio Delgado nº 2,11
+Sagrado Corazón de Jesús,Monuments,CALLE MAGNOLIAS 105,248 - Torre Cepsa,Calle Sinesio Delgado nº 2,11
+Francisco Palau y Quer,Monuments,CALLE PADRE FRANCISCO PALAU Y QUER 1,248 - Torre Cepsa,Calle Sinesio Delgado nº 2,11
+Escosura,Monuments,CALLE RIOS ROSAS 21,130 - Santa Engracia 127,Calle Santa Engracia nº 127,10
+Fuente del Canal Isabel II,Monuments,CALLE SANTA ENGRACIA 125,130 - Santa Engracia 127,Calle Santa Engracia nº 127,10
+Monolitos Escuela Superior de Ingenieros de Minas,Monuments,CALLE RIOS ROSAS 21,130 - Santa Engracia 127,Calle Santa Engracia nº 127,10
+Luis Guillermo Schultz Schreizer,Monuments,CALLE RIOS ROSAS 21,130 - Santa Engracia 127,Calle Santa Engracia nº 127,10
+Indalecio Prieto Tuero,Monuments,PLAZA SAN JUAN DE LA CRUZ 1,135 - Plaza de San Juan de la Cruz,Plaza de San Juan de la Cruz nº 11,1
+Estanque rectangular Nuevos Ministerios,Monuments,Pº Castellana 67,135 - Plaza de San Juan de la Cruz,Plaza de San Juan de la Cruz nº 11,1
+Fuente plaza San Juan de la Cruz,Monuments,PLAZA SAN JUAN DE LA CRUZ 1,135 - Plaza de San Juan de la Cruz,Plaza de San Juan de la Cruz nº 11,1
+Indalecio Prieto,Monuments,PASEO CASTELLANA 63,135 - Plaza de San Juan de la Cruz,Plaza de San Juan de la Cruz nº 11,1
+La Mano,Monuments,PLAZA SAN JUAN DE LA CRUZ 1,135 - Plaza de San Juan de la Cruz,Plaza de San Juan de la Cruz nº 11,1
+Francisco Largo Caballero,Monuments,PASEO CASTELLANA 1,93 - Plaza de Colón,Calle Goya nº 1,10
+Gaviota,Monuments,PASEO CASTELLANA 1,93 - Plaza de Colón,Calle Goya nº 1,10
+Cilindros en el espacio,Monuments,PASEO CASTELLANA 1,93 - Plaza de Colón,Calle Goya nº 1,10
+Cristóbal Colón,Monuments,Pza Colón ,93 - Plaza de Colón,Calle Goya nº 1,10
+AICO,Monuments,Pza Colón ,93 - Plaza de Colón,Calle Goya nº 1,10
+Isabel la Católica,Monuments,PASEO CASTELLANA 1,93 - Plaza de Colón,Calle Goya nº 1,10
+Fuente del monumento a Isabel la Católica,Monuments,PASEO CASTELLANA 1,93 - Plaza de Colón,Calle Goya nº 1,10
+Constitución de 1978,Monuments,PASEO CASTELLANA 1,93 - Plaza de Colón,Calle Goya nº 1,10
+Iris,Monuments,Pº Castellana ,93 - Plaza de Colón,Calle Goya nº 1,10
+San Isidoro,Monuments,PLAZA MARQUES DE COMILLAS 1,256 - Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,7
+Maternidad,Monuments,CALLE GENERAL RODRIGO 8,256 - Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,7
+Fortuna,Monuments,CALLE GUZMAN EL BUENO 137,256 - Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,7
+Abundancia,Monuments,CALLE GUZMAN EL BUENO 137,256 - Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,7
+Fuente de los Cupidos,Monuments,Avda Reina Victoria 70,256 - Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,7
+Escuela T.S. Ingenieros de Montes II,Monuments,CALLE RAMIRO DE MAEZTU 2,256 - Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,7
+Escuela T.S. Ingenieros de Montes III,Monuments,CALLE RAMIRO DE MAEZTU 2,256 - Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,7
+Carlos Ibáñez de Ibero,Monuments,CALLE GENERAL IBAÑEZ DE IBERO 1,256 - Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,7
+Vicente Aleixandre,Monuments,CALLE VICENTE ALEIXANDRE 3,256 - Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,7
+Vicente Aleixandre,Monuments,Gta Presidente García Moreno ,256 - Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,7
+San José,Monuments,CALLE ELOY GONZALO 3,200 - Quevedo,Glorieta de Quevedo nº 5,14
+Fuente en la calle Bravo Murillo,Monuments,CALLE BRAVO MURILLO 1,200 - Quevedo,Glorieta de Quevedo nº 5,14
+Triángulo de Oro,Monuments,CALLE BRAVO MURILLO 376,200 - Quevedo,Glorieta de Quevedo nº 5,14
+Bravo Murillo,Monuments,CALLE BRAVO MURILLO 49,200 - Quevedo,Glorieta de Quevedo nº 5,14
+Francisco de Quevedo y Villegas,Monuments,GLORIETA QUEVEDO 1,200 - Quevedo,Glorieta de Quevedo nº 5,14
+Julio Cejador,Monuments,GLORIETA QUEVEDO 6,200 - Quevedo,Glorieta de Quevedo nº 5,14
+Ernestina M. de Villena,Monuments,AVENIDA CARDENAL HERRERA ORIA 242,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Lecheras,Monuments,CALLE FRANCOS RODRIGUEZ 42,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Estanque Vaguada,Monuments,AVENIDA BETANZOS 1,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Fuentes Barrilete,Monuments,AVENIDA BETANZOS 1,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Andrés Bello,Monuments,PARQUE DEHESA DE LA VILLA ,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Antonio Machado,Monuments,C Antonio Machado 55,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Martín de Alzaga,Monuments,C Alcalde Martín de Alzaga 1,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Fuente circular del parque Rodríguez Sahagún,Monuments,CALLE OFELIA NIETO 83,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Agustín Rodríguez Sahagún,Monuments,PARQUE AGUSTIN RODRIGUEZ SAHAGUN ,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Fuente en la calle Francos Rodríguez,Monuments,CALLE FRANCOS RODRIGUEZ 67,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Fuente en la calle Ofelia Nieto,Monuments,CALLE OFELIA NIETO 1,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Pedro González Gutiérrez,Monuments,PARQUE CERRO PEÑABEL ,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Ría semicircular,Monuments,PARQUE CERRO PEÑABEL ,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Fuente del parque Cerro Peñabel,Monuments,PARQUE CERRO PEÑABEL ,239 - Francos Rodríguez,Calle Francos Rodríguez nº 62,3
+Fernando III El Santo,Monuments,JARDIN PALACIO REAL ,116a - Plaza de España A,Calle Princesa nº 5,0
+Alfonso X El Sabio,Monuments,JARDINES SABATINI ,116a - Plaza de España A,Calle Princesa nº 5,0
+Fuente mural Dr. Jaime Ferrán y Clúa,Monuments,CALLE PRINCESA 1,116a - Plaza de España A,Calle Princesa nº 5,0
+Sor Juana Inés de la Cruz,Monuments,C Ferraz ,116a - Plaza de España A,Calle Princesa nº 5,0
+Miguel de Cervantes,Monuments,Pza España ,116a - Plaza de España A,Calle Princesa nº 5,0
+Al Pueblo del Dos de Mayo de 1808,Monuments,Pza España ,116a - Plaza de España A,Calle Princesa nº 5,0
+Estanque grande de la plaza de España,Monuments,Pza España ,116a - Plaza de España A,Calle Princesa nº 5,0
+Fuente Miguel de Cervantes,Monuments,Pza España ,116a - Plaza de España A,Calle Princesa nº 5,0
+Doctor Larra y Cerezo,Monuments,CALLE JUAN ALVAREZ MENDIZABAL 12,116a - Plaza de España A,Calle Princesa nº 5,0
+Fuente de entrada a los Jardines Sabatini,Monuments,Gta San Vicente ,116a - Plaza de España A,Calle Princesa nº 5,0
+Copa,Monuments,Pza España 10,116a - Plaza de España A,Calle Princesa nº 5,0
+Estanque circular Sabatini,Monuments, ,116a - Plaza de España A,Calle Princesa nº 5,0
+Baco y Pomona en el jardín de la Quinta del duque del Arco,Monuments,MONTE EL PARDO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Bustos de emperadores romanos del jardín de la Quinta del duque del Arco,Monuments,MONTE EL PARDO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+José Ortega y Gasset,Monuments,PLAZA MENENDEZ PELAYO 4,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Escudo de España,Monuments,Avda Cardenal Herrera Oria 378,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Escultura en la Urbanización Los Robles,Monuments,C Gavilanes 4,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Escultura a la maternidad Clínica Puerta de Hierro,Monuments,CALLE SAN MARTIN DE PORRES 6,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Carabela Santa María,Monuments,AVENIDA VICTORIA 2,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Hispanidad,Monuments,AVENIDA VICTORIA 2,261 - Facultad Derecho,Avenida Complutense nº 23,8
+La Ayuda,Monuments,C Pléyades 25,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Estanque alto del jardín de la Quinta del duque del Arco,Monuments,MONTE EL PARDO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente de los cuatro delfines del jardín de la Quinta del duque del Arco,Monuments,MONTE EL PARDO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente circular con escultura en El Pardo,Monuments,PLAZA CAUDILLO 1,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente Cupido dormido,Monuments, ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente con grupo escultórico en los jardines de El Pardo,Monuments, ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente de la Pirámide en los jardines de El Pardo,Monuments, ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+"Fuente Blanca, cascada y estanque bajo del jardín del duque del Arco",Monuments,MONTE EL PARDO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente ochavada del jardín de la Quinta del duque de Arco,Monuments,MONTE EL PARDO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuentes gemelas del jardín de la Quinta del duque de Arco,Monuments,MONTE EL PARDO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Puerta de Hierro,Monuments,AVENIDA PADRE HUIDOBRO 1,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Luis Manuel López Martínez,Monuments,Pza Caudillo 5,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Ermita de Nuestra Señora del Buen Camino-I,Monuments,Pº Ermita ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Ermita de Nuestra Señora del Buen Camino-II,Monuments,Pº Ermita ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Jarrones del Instituto de Estudios Fiscales,Monuments,Avda Cardenal Herrera Oria 378,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Jarrones del jardín de la Quinta del duque del Arco,Monuments,MONTE EL PARDO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Jarrones jardines Palacio de El Pardo,Monuments,CALLE MANUEL ALONSO 1,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Cruceiro de la Ermita de Nuestra Señora del Buen Camino,Monuments,Pº Ermita del Santo ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuentes de la avenida de la Ilustración,Monuments,AVENIDA ILUSTRACION ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente en la plaza del Pardo (antigua plaza del Caudillo),Monuments,Pza del Pardo ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Colonia San Fernando,Monuments,Avda Guardia ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Anclas,Monuments,C Manuel Alonso ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Monolito de la plaza de la Democracia,Monuments,Pza Democracia ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+San Fernando (Fernando III el Santo),Monuments, ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Santa Bárbara,Monuments,Pte Puente de San Fernando ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente del Pajarito,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Estanque del Repartidor,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente del Rey,Monuments,Ctra Castilla ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente de las Siete Hermanas,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Antonio Lleó de la Viña,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Roberto Domingo,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Monolito a Fernando Huidobro,Monuments,Avda Padre Huidobro ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Fuente Valpalomero,Monuments,Avda Palacio ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Camilo José Cela,Monuments,Pza Menéndez Pelayo ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+La Mensajera,Monuments,C Olivo 27,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Puente de la Garrapata,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+El Portillo de los Pinos,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Puerta de Aravaca,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Rejas del arroyo Prado del Rey,Monuments,CARRETERA HUMERA 15,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Entrada al arroyo de Antequina,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Puente peatonal sobre el arroyo de Antequina,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Puente Colorado,Monuments,PARQUE CASA DE CAMPO ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Ermita de Nuestra Señora del Buen Camino-III,Monuments,Pº Ermita ,261 - Facultad Derecho,Avenida Complutense nº 23,8
+Alfonso XIII,Monuments,Avda Complutense ,260 - Facultad Biología,Calle José Antonio Novais frente al nº 12,12
+Carlos Moreno,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Jacinto Alcántara,Monuments, ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Francisco Alcántara,Monuments,CALLE FRANCISCO Y JACINTO ALCANTARA 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Paul Harris,Monuments,Pº Pintor Rosales ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Eduardo Rosales,Monuments,Pº Pintor Rosales ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Infanta Doña Isabel de Borbón,Monuments,Pº Pintor Rosales ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Estanque Rosaleda,Monuments,CALLE ROSALEDA 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Estanque Rosaleda Sur,Monuments,C Rosaleda ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Estanque Rosaleda Norte,Monuments,C Rosaleda ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Fuente de la Juventud Rosaleda,Monuments,CALLE ROSALEDA 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Fuente Primavera Rosaleda,Monuments,CALLE ROSALEDA 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Fuente Rosaleda Sur,Monuments,C Rosaleda ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Fuente Rosaleda Norte,Monuments,C Rosaleda ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Jarrones de la Rosaleda,Monuments,C Rosaleda ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Enrique Arroyo,Monuments,C Rosaleda ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Goya,Monuments,C Francisco y Jacinto Alcántara ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Columnas Rosaleda I y II,Monuments,C Rosaleda ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+"María de las Mercedes de Borbón y Orleans, Condesa de Barcelona",Monuments,CALLE ROSALEDA 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Fuente-pilón,Monuments,CALLE ROSALEDA 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Maestro Quiroga,Monuments, ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Portada Cementerio de la Florida,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+"Cementerio de la Florida, recinto y capilla",Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Llama al Valor y Heroísmo,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Crucero del Cementerio de La Florida,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Fusilamientos Montaña Príncipe Pío,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Baldomero Fernández Espartero,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Fosa enterramiento,Monuments,CALLE FRANCISCO Y JACINTO ALCANTARA 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Placa-listado cripta,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Evaristo San Miguel,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Chamberí a sus hijos,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Lápida Cementerio de la Florida,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Enterramientos 3 de Mayo,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Adelardo Ortiz de Pinedo,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Sor Marta,Monuments,C Francisco y Jacinto Alcántara 1,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Inmaculada,Monuments,C Francisco y Jacinto Alcántara ,113 - Pintor Rosales,Paseo del Pintor Rosales frente al nº 38,23
+Chulín,Monuments,COMPLEJO ZOOLOGICO DE LA CASA CAMPO ,224 - Caramuel,Calle Caramuel nº 51,5
+San Isidro en la Venta del Batán,Monuments,Ctra Batán ,224 - Caramuel,Calle Caramuel nº 51,5
+Doctor Esquerdo,Monuments,AVENIDA POBLADOS 70,224 - Caramuel,Calle Caramuel nº 51,5
+Musa Terpsícore,Monuments,C General Millán Astray 15,224 - Caramuel,Calle Caramuel nº 51,5
+Sagrado Corazón de Jesús,Monuments,GLORIETA EJERCITO 1,224 - Caramuel,Calle Caramuel nº 51,5
+San Gerardo,Monuments,C Maqueda 45,224 - Caramuel,Calle Caramuel nº 51,5
+Dos toros del Palacio Vistalegre,Monuments,C Utebo 1,224 - Caramuel,Calle Caramuel nº 51,5
+Al Bombero,Monuments,Avda Poblados ,224 - Caramuel,Calle Caramuel nº 51,5
+El perro,Monuments,GLORIETA EJERCITO 1,224 - Caramuel,Calle Caramuel nº 51,5
+Estudiante,Monuments,CALLE NUESTRA SEÑORA DE LA LUZ 53,224 - Caramuel,Calle Caramuel nº 51,5
+Monumento a los caídos,Monuments,GLORIETA EJERCITO 1,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente del colegio Amoros,Monuments,C Joaquín Turina 37,224 - Caramuel,Calle Caramuel nº 51,5
+La Agricultura,Monuments,PASEO ERMITA DEL SANTO 78,224 - Caramuel,Calle Caramuel nº 51,5
+Monolito al General Cámpora,Monuments,Gta Ejército ,224 - Caramuel,Calle Caramuel nº 51,5
+Doctor Benavente,Monuments,PLAZA PARTERRE ,224 - Caramuel,Calle Caramuel nº 51,5
+Doctor Ángel Pulido Fernández,Monuments,PLAZA PARTERRE ,224 - Caramuel,Calle Caramuel nº 51,5
+Baden Powell,Monuments,Ctra Zarzón ,224 - Caramuel,Calle Caramuel nº 51,5
+El perro callejero,Monuments,COMPLEJO ZOOLOGICO DE LA CASA CAMPO ,224 - Caramuel,Calle Caramuel nº 51,5
+Félix Rodríguez de la Fuente,Monuments,COMPLEJO ZOOLOGICO DE LA CASA CAMPO ,224 - Caramuel,Calle Caramuel nº 51,5
+Estanque del Parque Zoológico,Monuments,COMPLEJO ZOOLOGICO DE LA CASA CAMPO ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente neoclásica del pabellón de Guadalajara,Monuments,C Hexágonos ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente del Batán,Monuments,CARRETERA ZARZON 6,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente del Zoológico,Monuments,Ctra Zarzón ,224 - Caramuel,Calle Caramuel nº 51,5
+Mariano Benlliure,Monuments,Ctra Batán ,224 - Caramuel,Calle Caramuel nº 51,5
+Clara Campoamor,Monuments,Avda General Fanjul ,224 - Caramuel,Calle Caramuel nº 51,5
+La Colegiala,Monuments,Avda Poblados ,224 - Caramuel,Calle Caramuel nº 51,5
+Miguel Hernández,Monuments,C Serradilla 13,224 - Caramuel,Calle Caramuel nº 51,5
+Ramón María del Valle-Inclán,Monuments,C Valle Inclán 12,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente con escultura II en el intercambiador de Aluche,Monuments,C Maqueda ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente con escultura en el intercambiador de Aluche,Monuments,AVENIDA POBLADOS 41,224 - Caramuel,Calle Caramuel nº 51,5
+Estanque de las Cruces,Monuments,Pq Cruces ,224 - Caramuel,Calle Caramuel nº 51,5
+Estanque norte del parque de Arias Navarro,Monuments, ,224 - Caramuel,Calle Caramuel nº 51,5
+Estanque sur en la avenida de los Poblados,Monuments,PARQUE CRUCES ,224 - Caramuel,Calle Caramuel nº 51,5
+Estanque sur Aluche,Monuments, ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente del Teléfono,Monuments,Pq Cruces ,224 - Caramuel,Calle Caramuel nº 51,5
+Constitución española,Monuments, ,224 - Caramuel,Calle Caramuel nº 51,5
+Antorcha,Monuments,Avda General Fanjul 14,224 - Caramuel,Calle Caramuel nº 51,5
+Estanque Eugenia de Montijo,Monuments, ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente mural de la plaza de la Palmera,Monuments,C General Ricardos ,224 - Caramuel,Calle Caramuel nº 51,5
+Fusilamiento de Ocho Carmelitas,Monuments,C Monseñor Óscar Romero ,224 - Caramuel,Calle Caramuel nº 51,5
+Jerónimo Iborra-García,Monuments,CALLE DOCTOR JERONIMO IBORRA 16,224 - Caramuel,Calle Caramuel nº 51,5
+Monseñor Óscar Romero,Monuments,C Monseñor Óscar Romero 42,224 - Caramuel,Calle Caramuel nº 51,5
+Rodríguez Lázaro,Monuments,C Rodríguez Lázaro 1,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente de los Cármenes,Monuments,Gta Cármenes ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente mural de la plaza Sisenando,Monuments,PLAZA SISENANDO 1,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente circular del parque Eugenia de Montijo,Monuments, ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente tipo Alhambra,Monuments,C Principal de Provincias ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente octogonal de la calle Marcelino Camacho (antigua calle Muñoz Grandes),Monuments,C Marcelino Camacho ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente de Europa,Monuments,C Fuente de Lima ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente del parque de las Cruces,Monuments, ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente en la calle Damasquillo,Monuments,C Damasquillo 4,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente en la plaza Patriarca Eijo y Garay,Monuments,Pza Patriarca Eijo y Garay ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente de la Rosaleda,Monuments, ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente Yebenes,Monuments, ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente del Padre Piquer,Monuments,Pº Extremadura ,224 - Caramuel,Calle Caramuel nº 51,5
+La Paloma,Monuments,C Guabairo 1,224 - Caramuel,Calle Caramuel nº 51,5
+El Madroño,Monuments,C Oca ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente en Aluche,Monuments,C Ocaña ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente en la avenida Nuestra Señora de Fatima,Monuments,Avda Nuestra Señora de Fátima ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente en la calle Aceuchal,Monuments,C Alfaro ,224 - Caramuel,Calle Caramuel nº 51,5
+Topografía funcional,Monuments,Avda General Fanjul 2,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente Sepúlveda I,Monuments,Pq Cuña Verde ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente Sepúlveda II,Monuments,Pq Cuña Verde ,224 - Caramuel,Calle Caramuel nº 51,5
+Estanque Sepúlveda del parque Cuña Verde,Monuments,Pq Cuña Verde ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente en la calle Caramuel,Monuments,C Caramuel ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuente Yebenes II,Monuments,C Yébenes 145,224 - Caramuel,Calle Caramuel nº 51,5
+Monolito a Luis Ortiz de la Rosa,Monuments,C Ocaña 127,224 - Caramuel,Calle Caramuel nº 51,5
+Pirámide en Mirador,Monuments, ,224 - Caramuel,Calle Caramuel nº 51,5
+Fuentes de Caracol,Monuments,Pq Cuña Verde ,224 - Caramuel,Calle Caramuel nº 51,5
+Puente del Alamo Negro,Monuments,Ctra Zarzón ,224 - Caramuel,Calle Caramuel nº 51,5
+Puerta del Zarzón,Monuments,CARRETERA ZARZON 6,224 - Caramuel,Calle Caramuel nº 51,5
+Restos historicos del muro de la Puerta del Zarzón,Monuments,Ctra Boadilla del Monte ,224 - Caramuel,Calle Caramuel nº 51,5
+Rejas del arroyo Meaques,Monuments,CARRETERA BOADILLA DEL MONTE 1,224 - Caramuel,Calle Caramuel nº 51,5
+Acueducto y rejas sobre el arroyo del Barranco de la Zorra,Monuments,CAMINO HUMERA ,224 - Caramuel,Calle Caramuel nº 51,5
+Puerta de Rodajos,Monuments,Ctra Rodajos ,224 - Caramuel,Calle Caramuel nº 51,5
+Crucero en la calle General Romero Basart,Monuments,C General Romero Basart ,224 - Caramuel,Calle Caramuel nº 51,5
+Puerta Colonia de la Prensa,Monuments,C Rodríguez Lázaro 1,224 - Caramuel,Calle Caramuel nº 51,5
+Centenario del Hospital Central de la Defensa,Monuments,GLORIETA EJERCITO 1,224 - Caramuel,Calle Caramuel nº 51,5
+Estatua Virgen María,Monuments,C Gómez de Arteche 30,224 - Caramuel,Calle Caramuel nº 51,5
+Vasco Núñez de Balboa,Monuments,Avda Reyes Católicos 6,110 - Moncloa,Paseo de Moret nº 2,10
+Estanque en la avenida Reyes Católicos,Monuments,Avda Reyes Católicos 6,110 - Moncloa,Paseo de Moret nº 2,10
+Arco de Moncloa,Monuments, ,110 - Moncloa,Paseo de Moret nº 2,10
+Isabel la Católica,Monuments,Avda Reyes Católicos ,110 - Moncloa,Paseo de Moret nº 2,10
+General Manuel Cassola,Monuments,Pº Moret ,110 - Moncloa,Paseo de Moret nº 2,10
+José de San Martín,Monuments, ,110 - Moncloa,Paseo de Moret nº 2,10
+Federico Rubio,Monuments,PARQUE OESTE ,110 - Moncloa,Paseo de Moret nº 2,10
+Fuente de la Salud del parque del Oeste,Monuments,PARQUE OESTE ,110 - Moncloa,Paseo de Moret nº 2,10
+Torre de iluminación y comunicaciones (Faro de la Moncloa),Monuments,Avda Arco de la Victoria 2,110 - Moncloa,Paseo de Moret nº 2,10
+Mirada del Horizonte II,Monuments,C Princesa 87,110 - Moncloa,Paseo de Moret nº 2,10
+Virgen Blanca (Virgen del Asedio),Monuments, ,244 - Hospital Clínico,Calle Isaac Peral nº 44,4
+Fuente Carlos Jiménez Díaz,Monuments,PLAZA CRISTO REY 1,244 - Hospital Clínico,Calle Isaac Peral nº 44,4
+Colegio Mayor San Pablo,Monuments,CALLE ISAAC PERAL 58,244 - Hospital Clínico,Calle Isaac Peral nº 44,4
+Francisco Tomás y Valiente,Monuments,CALLE DOMENICO SCARLATTI 6,244 - Hospital Clínico,Calle Isaac Peral nº 44,4
+Atletas,Monuments,CALLE CLARA CAMPOAMOR 10,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Santa Rosa de Lima,Monuments,C General Ricardos 177,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+San José,Monuments,CALLE GENERAL RICARDOS 179,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente estrellada de la finca Vista Alegre,Monuments,C Clara Campoamor 10,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente de los Caballos,Monuments,C Arnedo 22,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuentes gemelas del palacio nuevo del duque de Riansares,Monuments,C Arnedo 22,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuentes gemelas del palacio viejo de la reina Cristina,Monuments,CALLE GENERAL RICARDOS 179,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Asilo de Inválidos,Monuments,C Arnedo 22,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Moreno Benítez Juan,Monuments,C General Ricardos 179,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Cruz de Piedra,Monuments,Pza Parroquia 1,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+San Isidro,Monuments,PUENTE TOLEDO ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Escultura en la calle Belzunegui,Monuments,C Belzunegui ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+La Flecha,Monuments,Avda Vía Lusitana ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Puerta de los Osos,Monuments,C General Ricardos 179,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente con farola en la calle General Ricardos,Monuments,C General Ricardos ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente de la Junta Municipal de Carabanchel,Monuments,Pza Carabanchel ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente circular en la glorieta Marques de Vadillo,Monuments,Gta Marqués de Vadillo ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente plaza de Carabanchel,Monuments,Pza Carabanchel ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente plaza Eliptica,Monuments,Pza Fernández Ladreda ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Colonia Torres Garrido,Monuments,Col Torres Garrido ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Lola Membrives,Monuments,C Lola Membrives 1,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Matadero,Monuments,C Padre Amigó 4,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Santa Rosa,Monuments,Col Torres Garrido ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente nueva de la glorieta Marques de Vadillo,Monuments,Gta Marqués de Vadillo ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente circular en la calle Muñoz Grandes,Monuments,Paseo Marcelino Camacho 6,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente Valle de oro,Monuments,C General Ricardos ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+La Familia,Monuments,Avda Oporto ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuentes en la calle Vía Lusitana,Monuments,C Braganza ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuentes de la avenida Poblados,Monuments,Avda Poblados ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente neoclásica en la avenida de Oporto,Monuments,Avda Oporto ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuentes en la vía Lusitana,Monuments,C Faro ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuentes en la vía Lusitana,Monuments,C Juan Ramón Carrero ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente en la calle Vía Lusitana,Monuments,Avda Vía Lusitana ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente del parque Emperatriz María de Austria,Monuments,Avda Vía Lusitana ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+El buzón de las palabras,Monuments,Pza Carabanchel ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Puerta Bonita,Monuments,C General Ricardos ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente en la calle del Euro,Monuments,Avda Euro ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fuente Vía Lusitana,Monuments,Avda Vía Lusitana ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Pérgola calle del Euro,Monuments,Avda Euro ,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Ría Colegio Las Acacias,Monuments,C General Ricardos 179,212 - Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,2
+Fray Pedro Ponce de León,Monuments,Avda Eduardo Barreiros 6,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente circular del Instituto Ponce de León,Monuments,Avda Eduardo Barreiros 6,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Al Viejo Profesor,Monuments,Avda Eduardo Barreiros 17,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Ciudad Sanitaria 12 Octubre,Monuments,Avda Córdoba ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Imprenta,Monuments,Avda Eduardo Barreiros 6,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Arturo Pajuelo Rubio,Monuments,Pza Sestao ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+La Fuente,Monuments,Pza Asociación ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Niños en el Colegio Público Marcelo Usera,Monuments,C Perales de Tajuña 1,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Estanque de Pradolongo,Monuments,PARQUE PRADOLONGO ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuentes avenida de los Poblados-Rafaela Ybarra,Monuments,Avda Poblados ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Estanque Rafaela Ybarra,Monuments,Avda Rafaela Ybarra ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Estanque semicircular y canal Pradolongo,Monuments,PARQUE PRADOLONGO ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente circular I del parque de Pradolongo,Monuments, ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente circular II del parque de Pradolongo,Monuments, ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente circular III del parque de Pradolongo,Monuments,PARQUE PRADOLONGO ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Venus emergiendo de las aguas,Monuments, ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente circular del parque de Pradolongo,Monuments,PARQUE PRADOLONGO ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Columnas toscanas Pradolongo,Monuments,PARQUE PRADOLONGO ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Monolito Unidad Pozo-Orcasitas,Monuments,Pza Asociación s/n,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Monolito del parque de Pradolongo,Monuments, ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Enrique Tierno Galván,Monuments,C Arroyo Bueno 53,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Escultura en chapa metálica en la calle San Jenaro,Monuments,C San Jenaro ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente del parque Ciudad de los Ángeles,Monuments, ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente con escultura en la calle San Jenaro,Monuments,C San Jenaro ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente octogonal de la plaza Ágata I,Monuments,Pza Ágata ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente octogonal de la plaza Ágata II,Monuments,Pza Ágata ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente de la Piña en Villaverde,Monuments,CALLE ALCARRIA ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente plaza Ágata,Monuments,Pza Ágata ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Centro Básico de Servicios Sociales y 3ª Edad,Monuments,C Villalonso 12,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Centro Cultural Ágata,Monuments,Pza Ágata 2,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Puerta de la Alcarria,Monuments,C Alcarria ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente ornamental Mirasierra-Amparo Usera,Monuments,C Amparo Usera ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+La Gloria,Monuments,Gta Cádiz ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Monolito jardines de Cándido Reyes,Monuments,Avda Poblados 154,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente circular en la calle Almendrales,Monuments,C Almendrales ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente Meseta de Orcasitas,Monuments,Avda Rafaela Ybarra 101,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Monolito Marcelo Usera,Monuments,C Marcelo Usera 50,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+David González Rubio I,Monuments,C Doctor Tolosa Latour ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Umbráculo del Parque del Manzanares,Monuments,CAMINO PERALES ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Fuente del parque del Manzanares,Monuments,CAMINO PERALES 1,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Monumento 1 Gran Vía Villaverde Letras,Monuments,C Gran Vía de Villaverde ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Monumento 2 Gran Vía Villaverde,Monuments,AVENIDA GRAN VIA DE VILLAVERDE 20,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Monumento 3 Gran Vía Villaverde,Monuments,AVENIDA GRAN VIA DE VILLAVERDE 20,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Templete Meseta de Orcasitas,Monuments,Avda Rafaela Ybarra 101,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Grupo escultórico mujer y tortuga,Monuments,Pº Alberto Palacios 1,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Esculturas emergentes Pradolongo,Monuments,C Doctor Tolosa Latour ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Banda en los círculos,Monuments, ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Maternidad,Monuments,C Cestona 5,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+David González Rubio II,Monuments,C Doctor Tolosa Latour ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Estanques rectangulares Pradolongo,Monuments, ,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Placa Matadero en Usera,Monuments,"Avda Manzanares, del 212",213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Linotipia,Monuments,Avda Eduardo Barreiros 6,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Escultura con material de desecho,Monuments,Avda Eduardo Barreiros 6,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Estanque Centro de Informática Seg. Social,Monuments,CALLE DOCTOR TOLOSA LATOUR 7,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Escultura monolítica I Inst. Prof. de Sordomudos Ponce de León,Monuments,Avda Eduardo Barreiros 6,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Escultura monolítica II Inst. Prof. de Sordomudos Ponce de León,Monuments,Avda Eduardo Barreiros 6,213 - Glorieta de Cádiz,Calle Antonio López nº 129,18
+Virgen de la Misericordia,Monuments,C Arroyo del Olivar 100,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Grupo escultórico C. Especialidades V. Soldevilla I,Monuments,C Sierra de Alquife 8,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Grupo escultórico C. Especialidades V. Soldevilla II,Monuments,CALLE SIERRA DE ALQUIFE 8,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Amós Acero,Monuments, ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Figura femenina,Monuments,Trav Felipe de Diego 20,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Familia,Monuments,Trav Felipe de Diego ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Geometría Natural,Monuments,C Sierra de Molina ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Diana,Monuments,Trav Felipe de Diego ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Homenaje a Goya - La Maja desnuda,Monuments,Trav Felipe de Diego 19,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+A Neruda-El Ser alado,Monuments,Gta José Luis Ozores 116,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Oso y Madroño,Monuments,C Barros 16,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Un Personaje Importante,Monuments,Trav Felipe de Diego ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente circular del parque Amós Acero,Monuments, ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Víctimas Ayuntamiento de Vallecas,Monuments,Avda Albufera 42,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Mosaico mural,Monuments,Trav Felipe de Diego ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Paneles cerámicos vidriados. Palomeras bajas,Monuments,CALLE AHIJONES 1,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Unidad vecinal Nº 5 Entrevías,Monuments,C Cazorla ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente de Mercamadrid,Monuments,Me Mercado Mercamadrid ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Mercamadrid,Monuments,Me Mercado Mercamadrid ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+José Luis Pinto Álvarez,Monuments,Me Mercado Mercamadrid ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Padre Llanos,Monuments,C Cooperativa Eléctrica ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente de la Asamblea de Madrid,Monuments,Pza Asamblea de Madrid ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+La Abuela rockera-Ángeles Rodríguez Hidalgo,Monuments,C Peña Gorbea ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente en la calle Arroyo del Olivar,Monuments,C Arroyo del Olivar ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Homenaje a García Lorca - Arco en el pentágono,Monuments,C Puerto del Milagro ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente en la avenida de las Glorietas,Monuments,C Esteban Carros ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Plano de Entrevías,Monuments,Avda Entrevías 52,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente mural del parque Fofó,Monuments, ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente Pablo Neruda I,Monuments,Avda Pablo Neruda 112,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente Pablo Neruda II,Monuments,AVENIDA PABLO NERUDA 114,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente en la estación Asamblea de Madrid I,Monuments,Avda Entrevías s/n,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente en la estación Asamblea de Madrid II,Monuments,Avda Entrevías ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente en la estación Asamblea de Madrid III,Monuments,Avda Entrevías s/n,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente en la estación Asamblea de Madrid IV,Monuments,Avda Entrevías s/n,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Fuente en la estación Asamblea de Madrid V,Monuments,Avda Entrevías s/n,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Monumento a las víctimas del 11-M El Pozo,Monuments,Avda Entrevías ,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Orden cósmico,Monuments,Trav Felipe de Diego s/n,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Juan Carlos I,Monuments,Avda Pablo Neruda 142,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Placa inauguración Asamblea de Madrid,Monuments,Avda Pablo Neruda 142,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Encuentro en la playa,Monuments,Trav Felipe de Diego 2,227 - Concordia,Calle Arroyo del Olivar nº 6,21
+Carlos María Rodríguez de Valcárcel,Monuments,Pza Encuentro 4,220 - Plaza del Encuentro,Calle Arroyo de las Pilillas nº 6,16
+Fuente semicircular Pinos,Monuments,PARQUE PINOS ,220 - Plaza del Encuentro,Calle Arroyo de las Pilillas nº 6,16
+Burrito,Monuments,C Pío Felipe 12,220 - Plaza del Encuentro,Calle Arroyo de las Pilillas nº 6,16
+Eos,Monuments,C Las Marismas 25,220 - Plaza del Encuentro,Calle Arroyo de las Pilillas nº 6,16
+Hypnos,Monuments,C Las Marismas 41,220 - Plaza del Encuentro,Calle Arroyo de las Pilillas nº 6,16
+Escudo de Madrid,Monuments,Pza Encuentro ,220 - Plaza del Encuentro,Calle Arroyo de las Pilillas nº 6,16
+Sagrado Corazón de Jesús,Monuments,CALLE ARTURO SORIA 101,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Ad Iesum per Mariam,Monuments,AVENIDA MACHUPICHU 1,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Escultura AENA,Monuments,C Arturo Soria 109,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Cinco obeliscos Centro Comercial Arturo Soria Plaza,Monuments,C Arturo Soria 126,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+San José,Monuments,C Mar Adriático 11,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Arturo Soria y Mata,Monuments,C Arturo Soria ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fauna Mayor Ibérica I,Monuments,C Arturo Soria ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fauna Mayor Ibérica II,Monuments,C Arturo Soria 101,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque Arturo Soria I,Monuments,C Arturo Soria 36,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque Arturo Soria II,Monuments,C Arturo Soria 118,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Dedos,Monuments,PARQUE JUAN CARLOS I 1,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Reina Sofía,Monuments,Ctra Canillas 51,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Escultura abstracta en la calle Pedroñeras,Monuments,C Pedroñeras 31,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente del parque Villarrosa,Monuments,C Aconcagua ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente de los caballitos de Hortaleza,Monuments,C Mar Amarillo ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente mural del parque Isabel Clara Eugenia,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque parque Huerta de la Salud,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque escalonado Pinar del Rey,Monuments,C Macuaje ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Ría y estanque Villarrosa,Monuments,C Aconcagua ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Centro de Educación Especial Reina Sofía,Monuments,Ctra Canillas 51,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Colegio Público Dionisio Ridruejo,Monuments,C Zipaquira 14,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Plaza de la Unión Cárcavas-San Antonio,Monuments,Pza Unión Cárcavas-San Antonio ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Mariano Martínez López (actualmente desaparecida),Monuments,Pza Unión Cárcavas-San Antonio ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Monolito conmemorativo del parque Villarrosa,Monuments,C Pedroñeras ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Pilar IV,Monuments,C Mar de las Antillas 1,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Monumento a Enrique Tierno Galván,Monuments,C Aconcagua ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Reloj solar,Monuments,C Aconcagua ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Templete Villarrosa,Monuments,C Aconcagua ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque alto del parque en la Quinta de los Molinos,Monuments,C Alcalá 527,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Dos estanques rectangulares en la calle Alcalá,Monuments,C Alcalá 527,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente con cuatro tazas de la Quinta de los Molinos,Monuments,C Alcalá 527,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Árbol de la Vida,Monuments,JARDIN TRES CULTURAS ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Eolos,Monuments,PARQUE JUAN CARLOS I 1,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Espacio México,Monuments,PARQUE JUAN CARLOS I 1,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fisicromía para Madrid,Monuments,PARQUE JUAN CARLOS I 1,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Manolona Opus 397,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Don Juan de Borbón,Monuments,Gta Su Alteza Real Don Juan de Borbón y Battemberg ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Monumento a la Paz,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Viga,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Canal del parque Juan Carlos I,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Cuatro Ríos,Monuments,JARDIN TRES CULTURAS ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque plaza del Recibimiento,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque I Campo de las Naciones,Monuments,"Avda Capital de España, Madrid ",230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque II Campo de las Naciones,Monuments,"Avda Capital de España, Madrid ",230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque III Campo de las Naciones,Monuments,"Avda Capital de España, Madrid ",230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque jardín Judío,Monuments,JARDIN TRES CULTURAS ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque norte del parque Juan Carlos I,Monuments,PARQUE JUAN CARLOS I 1,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque paseo Central,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanque sur del parque Juan Carlos I,Monuments,PARQUE JUAN CARLOS I 1,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente cibernética D. Juan de Bórbón,Monuments,Gta Su Alteza Real Don Juan de Borbón y Battemberg ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente de mármol del jardín de las Tres Culturas,Monuments,JARDIN TRES CULTURAS ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Albercas-acequias del Jardín Islámico,Monuments,JARDIN TRES CULTURAS ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Lámina de agua en cascada,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Nubes Cromáticas,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Estanques-graderíos,Monuments,JARDIN TRES CULTURAS ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Parque Juan Carlos I,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Columnata del claustro,Monuments,JARDIN TRES CULTURAS ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Pilastras hitos plaza Recibimiento,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Pórtico principal,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Melvin Jones,Monuments,"Avda Capital de España, Madrid ",230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente del Liceo,Monuments,Pza Liceo ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Encuentros,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Puerta Huerta de la Salud,Monuments,C Mar de las Antillas 6,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente en la calle Condesa de Venadito,Monuments,C Condesa de Venadito 11,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente Sandro Pertini,Monuments,Gta Sandro Pertini ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Escultura en la plaza Santos de la Humosa,Monuments,Plaza Santos de la Humosa ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente de la glorieta de Luxemburgo,Monuments,Gta Luxemburgo ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente en la glorieta de Hamburgo,Monuments,Gta Hamburgo ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente plaza José María Escrivá de Balaguer,Monuments,Pza José María Escrivá de Balaguer ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Vela,Monuments,C Ribera del Sena ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente Sena I,Monuments,C Ribera del Sena ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente Sena II,Monuments,C Ribera del Sena ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Monolito calle Baterías,Monuments,CALLE BATERIAS 9,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Fuente en la calle Batería,Monuments,CALLE BATERIAS 9,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
 A las víctimas del Holocausto,Monuments,JARDIN TRES CULTURAS ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Resto escultóricos y arquitectónicos,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Foro-patio del parque Clara Eugenia,Monuments, ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Escultura abstracta del Edificio BBVA,Monuments,Vía Los Poblados s/n,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Villa Rotonda,Monuments,C Aconcagua ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,13
+Nuestra Señora de los Desamparados,Monuments,Pza Pinazo 9,235 - Embajadores 191,Calle Sodio nº 1B,11
+Colegiales,Monuments,Pza Pinazo 7,235 - Embajadores 191,Calle Sodio nº 1B,11
+Paloma de la Paz,Monuments,Pza Paloma de la Paz 1,235 - Embajadores 191,Calle Sodio nº 1B,11
+Estanque C. Cultural S. Cristóbal,Monuments,Pza Pinazo 9,235 - Embajadores 191,Calle Sodio nº 1B,11
+Estanque Dehesa Boyal,Monuments,PARQUE DEHESA BOYAL ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuente de la Capona,Monuments,C Fuente de la Capona ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuente del parque de El Espinillo,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Centro Cultural San Cristóbal de los Ángeles,Monuments,Pza Pinazo 9,235 - Embajadores 191,Calle Sodio nº 1B,11
+Enrique Tierno Galván,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Restos de fábrica de ladrillos Norah,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Homenaje a Pío Baroja,Monuments,Avda Andalucía ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuente en la plaza Chozas de Canales,Monuments,Pza Chozas de Canales ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Ruinas parque del Espinillo,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuente en la avenida de la Felicidad,Monuments,Avda Felicidad ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuente Pilar Lorengar,Monuments,C Pilar Lorengar 19,235 - Embajadores 191,Calle Sodio nº 1B,11
+Pérgola parque del Manzanares,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Estanque grande parque del Manzanares,Monuments,CALLE EMBAJADORES 320,235 - Embajadores 191,Calle Sodio nº 1B,11
+La Dama del Manzanares,Monuments,CALLE EMBAJADORES 320,235 - Embajadores 191,Calle Sodio nº 1B,11
+Estanque cuadrado del parque del Manzanares,Monuments,CALLE EMBAJADORES 320,235 - Embajadores 191,Calle Sodio nº 1B,11
+Monolito del parque del Manzanares,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Anfiteatro del parque del Manzanares,Monuments,Cmno Perales s/n,235 - Embajadores 191,Calle Sodio nº 1B,11
+Enrique Tierno Galván,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuente baja del parque Enrique Tierno Galván,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuente con canal del parque Enrique Tierno Galván I,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Pérgolas del parque Enrique Tierno Galván,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Auditorio del parque Enrique Tierno Galván,Monuments,PARQUE ENRIQUE TIERNO GALVAN ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Vagón-plataforma de tren,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuente con canal  del parque Enrique Tierno Galván II,Monuments, ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuentes rectangulares de la Gran Vía de Villaverde,Monuments,C Gran Vía de Villaverde ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Pérgolas Gran Vía Villaverde,Monuments,C Gran Vía de Villaverde ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuentes con surtidores en la Gran Vía de Villaverde,Monuments,C Gran Vía de Villaverde ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Fuente ornamental Godella,Monuments,C Godella 64,235 - Embajadores 191,Calle Sodio nº 1B,11
+Jardines Manuel González Carmona,Monuments,C Villafuerte ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Obeliscos octogonales Av Andalucía,Monuments,Avda Andalucía ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Paso peatonal Puerta Sur,Monuments,C Párroco Eusebio Cuenca ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Monumento 6 Gran Vía Villaverde Letras,Monuments,C Gran Vía de Villaverde ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Monumento 4 Gran Vía Villaverde,Monuments,C Gran Vía de Villaverde ,235 - Embajadores 191,Calle Sodio nº 1B,11
+Leones del Congreso de los Diputados,Monuments,Pza Cortes 1,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Miguel de Cervantes,Monuments,Pza Cortes ,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Neptuno,Monuments,Pza Cánovas del Castillo ,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Azorín,Monuments,C Zorrilla 21,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Federico de Madrazo,Monuments,C Los Madrazo 24,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Fundación de la Sociedad General Autores de España (SGAE),Monuments,Ctra Fernanflor 10,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Cátedra de taquigrafía española,Monuments,C Marqués de Cubas 15,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Ricardo de la Vega,Monuments,Ctra Fernanflor 8,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Ferenc Liszt,Monuments,PLAZA CORTES 6,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Fuentes neoclásicas en el Paseo del Prado,Monuments,Pº Prado 4,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Valle-Inclán. Presidente Ateneo,Monuments,C Santa Catalina 10,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,10
+Relieve Museo de Carruajes II,Monuments, ,167 - Segovia 45,Calle Segovia nº 45,18
+Relieve Museo de Carruajes I,Monuments, ,167 - Segovia 45,Calle Segovia nº 45,18
+Estanque para patos de los jardines del Campo del Moro,Monuments, ,167 - Segovia 45,Calle Segovia nº 45,18
+Fuente pilón Campo del Moro,Monuments,PASEO BAJO DE LA VIRGEN DEL PUERTO 1,167 - Segovia 45,Calle Segovia nº 45,18
+Fuentes gemelas de los jardines del Campo del Moro,Monuments, ,167 - Segovia 45,Calle Segovia nº 45,18
+Azorín,Monuments,Gta Azorín ,167 - Segovia 45,Calle Segovia nº 45,18
+Luigi Boccherini,Monuments,Gta Boccherini ,167 - Segovia 45,Calle Segovia nº 45,18
+Fuentes gemelas de la glorieta Boccherini,Monuments,GLORIETA BOCCHERINI ,167 - Segovia 45,Calle Segovia nº 45,18
+Ramón Gómez de la Serna,Monuments,Pza Gabriel Miró ,167 - Segovia 45,Calle Segovia nº 45,18
+Parque de Atenas,Monuments,PASEO CIUDAD DE PLASENCIA ,167 - Segovia 45,Calle Segovia nº 45,18
+Galería mirador,Monuments,Pza Gabriel Miró ,167 - Segovia 45,Calle Segovia nº 45,18
+Estanque Atenas,Monuments,PARQUE ATENAS ,167 - Segovia 45,Calle Segovia nº 45,18
+Fuentes Lavadero de los jardines de la Virgen del Puerto,Monuments,Pº Ermita de la Virgen del Puerto ,167 - Segovia 45,Calle Segovia nº 45,18
+José Antonio Primo de Rivera,Monuments,C Génova 24,10 - Marqués de la Ensenada,Calle Marqués de la Ensenada nº 16,8
+Herón,Monuments,PLAZA COLON 2,10 - Marqués de la Ensenada,Calle Marqués de la Ensenada nº 16,8
+Fuente de la antigua Embajada Británica,Monuments,CALLE FERNANDO EL SANTO 16,10 - Marqués de la Ensenada,Calle Marqués de la Ensenada nº 16,8
+Bárbara de Braganza,Monuments,Pza Villa de París ,10 - Marqués de la Ensenada,Calle Marqués de la Ensenada nº 16,8
+Fernando VI,Monuments,Pza Villa de París ,10 - Marqués de la Ensenada,Calle Marqués de la Ensenada nº 16,8
+Carlos Arniches,Monuments,CALLE MONTE ESQUINZA 1,10 - Marqués de la Ensenada,Calle Marqués de la Ensenada nº 16,8
+Mujer con Espejo,Monuments,PLAZA COLON 1,10 - Marqués de la Ensenada,Calle Marqués de la Ensenada nº 16,8
+Castilla,Monuments,CALLE CASTELLO 77,109 - Marqués de Salamanca,Calle José Ortega y Gasset nº 30,10
+Lugar de Encuentros I,Monuments,C Castelló 77,109 - Marqués de Salamanca,Calle José Ortega y Gasset nº 30,10
+Órgano,Monuments,C Castelló 77,109 - Marqués de Salamanca,Calle José Ortega y Gasset nº 30,10
+Almudena,Monuments,C Castelló 77,109 - Marqués de Salamanca,Calle José Ortega y Gasset nº 30,10
+Juan Ramón Jiménez,Monuments,C Padilla 38,109 - Marqués de Salamanca,Calle José Ortega y Gasset nº 30,10
+Décollage naval,Monuments,C Marqués de Villamagna ,103 - Ortega y Gasset,Calle José Ortega y Gasset nº 4,0
+La Fuente y el Río,Monuments,C Serrano ,103 - Ortega y Gasset,Calle José Ortega y Gasset nº 4,0
+Camilo José Cela,Monuments,C Claudio Coello 91,103 - Ortega y Gasset,Calle José Ortega y Gasset nº 4,0
+Concesa de la Maza,Monuments,C Claudio Coello 88,103 - Ortega y Gasset,Calle José Ortega y Gasset nº 4,0
+Francisco Navarro Ledesma,Monuments,C Serrano 72,103 - Ortega y Gasset,Calle José Ortega y Gasset nº 4,0
+Esfinges,Monuments,C Serrano 13,95 - Villanueva,Calle Claudio Coello nº 109,5
+General Ibáñez de Ibero,Monuments,CALLE JORGE JUAN 8,95 - Villanueva,Calle Claudio Coello nº 109,5
+Manuel del Palacio,Monuments,C Claudio Coello 22,95 - Villanueva,Calle Claudio Coello nº 109,5
+Callejón de Jorge Juan,Monuments,C Jorge Juan 14,95 - Villanueva,Calle Claudio Coello nº 109,5
+Toreros de la Beneficencia,Monuments,CALLE ALCALA 231,187 - Alcalá-Ventas,Calle Alejandro González nº 1,4
+Antonio Bienvenida,Monuments,C Alcalá 231,187 - Alcalá-Ventas,Calle Alejandro González nº 1,4
+Manuel Rodríguez (Manolete),Monuments,CALLE ALCALA 231,187 - Alcalá-Ventas,Calle Alejandro González nº 1,4
+Antonio Bienvenida,Monuments,C Alcalá 231,187 - Alcalá-Ventas,Calle Alejandro González nº 1,4
+Doctor Fleming,Monuments,CALLE ALCALA 231,187 - Alcalá-Ventas,Calle Alejandro González nº 1,4
+José Cubero (Yiyo),Monuments,CALLE ALCALA 231,187 - Alcalá-Ventas,Calle Alejandro González nº 1,4
+El Encierro,Monuments,C Julio Camba ,187 - Alcalá-Ventas,Calle Alejandro González nº 1,4
+Atletas,Monuments,CALLE SERRANO 127,250 - Serrano 113,Calle Serrano nº 113B,8
+Estanque rectangular C.S.I.C.,Monuments,CALLE SERRANO 117,250 - Serrano 113,Calle Serrano nº 113B,8
+Instituto Científico Weizmann,Monuments,CALLE SERRANO 117,250 - Serrano 113,Calle Serrano nº 113B,8
+Pedro de Valdivia,Monuments,CALLE PEDRO DE VALDIVIA 24,250 - Serrano 113,Calle Serrano nº 113B,8
+El Balancín,Monuments,CALLE PUERTO RICO 22,160 - Colombia,Calle Colombia nº 7,6
+Juan de la Cosa,Monuments,PLAZA JUAN DE LA COSSA ,160 - Colombia,Calle Colombia nº 7,6
+Familia,Monuments, ,160 - Colombia,Calle Colombia nº 7,6
+Pareja Feliz,Monuments,C Arturo Soria 214,160 - Colombia,Calle Colombia nº 7,6
+Reposo,Monuments,C Arturo Soria 208,160 - Colombia,Calle Colombia nº 7,6
+Torso de Arquero,Monuments,C Arturo Soria 206,160 - Colombia,Calle Colombia nº 7,6
+Estanque Arturo Soria IV,Monuments,C Arturo Soria 176,160 - Colombia,Calle Colombia nº 7,6
+Columnas ornamentales en el jardín del palacete Villa Rosa,Monuments, ,160 - Colombia,Calle Colombia nº 7,6
+Fuente Pilar Miró,Monuments,Gta Pilar Miró ,160 - Colombia,Calle Colombia nº 7,6
+Rehabilitación jardines de la J. M. Hortaleza,Monuments,Ctra Canillas 2,160 - Colombia,Calle Colombia nº 7,6
+Monumento Junta Municipal de Hortaleza,Monuments,Ctra Canillas 2,160 - Colombia,Calle Colombia nº 7,6
+Torso,Monuments,ESTACION DE METRO CHAMARTIN ,252 - Chamartín,Calle Rodríguez Jaén nº 40,7
+Ola a Ritmo de Txalaparta,Monuments,ESTACION DE METRO CHAMARTIN ,252 - Chamartín,Calle Rodríguez Jaén nº 40,7
+Caídos de Chamartin de la Rosa,Monuments,PLAZA DUQUE DE PASTRANA 1,252 - Chamartín,Calle Rodríguez Jaén nº 40,7
+El Niño,Monuments,CALLE MAURICIO LEGENDRE 36,252 - Chamartín,Calle Rodríguez Jaén nº 40,7
+Estanque Arturo Soria VII,Monuments,C Arturo Soria 308,252 - Chamartín,Calle Rodríguez Jaén nº 40,7
+Doble ancla,Monuments,C Alicún 9,252 - Chamartín,Calle Rodríguez Jaén nº 40,7
+Fuente en la calle Arturo Soria y avenida de San Luis,Monuments,C Arturo Soria 310,252 - Chamartín,Calle Rodríguez Jaén nº 40,7
+Haciendo futuro,Monuments,CALLE PRINCIPE DE VERGARA 156,147 - Doctor Arce 45,Avenida del Doctor Arce nº 45,1
+Julián Besteiro,Monuments,AVENIDA DOCTOR ARCE 31,147 - Doctor Arce 45,Avenida del Doctor Arce nº 45,1
+Llama del Perú,Monuments,PASEO CASTELLANA 140,149 - Paseo de la Habana 42,Paseo de la Habana nº 42,5
+Iglesia Sagrados Corazones,Monuments,PLAZA SAGRADOS CORAZONES 1,149 - Paseo de la Habana 42,Paseo de la Habana nº 42,5
+Francisco Pizarro,Monuments,PASEO CASTELLANA 140,149 - Paseo de la Habana 42,Paseo de la Habana nº 42,5
+Jose Martí,Monuments,PASEO LA HABANA 9,149 - Paseo de la Habana 42,Paseo de la Habana nº 42,5
+Padre Damián,Monuments,CALLE PADRE DAMIAN 2,159 - Paseo de la Habana 63,Paseo de la Habana nº 63,11
+Estanque circular Centro Médico 'La Fraternidad',Monuments,PASEO LA HABANA 83,159 - Paseo de la Habana 63,Paseo de la Habana nº 63,11
+Fuente de La Fraternidad,Monuments,PASEO LA HABANA 83,159 - Paseo de la Habana 63,Paseo de la Habana nº 63,11
+Sagrada Familia,Monuments,PLAZA MADRE MOLAS 2,255 - López Pozas,Calle General López Pozas nº 2,5
+"Agricultor, agricultura y progreso",Monuments,PASEO CASTELLANA 101,153 - General Perón con Poeta Joan Maragall,Avenida del General Perón frente al nº 36,0
+Pablo Picasso,Monuments,PLAZA PABLO RUIZ PICASSO 1,153 - General Perón con Poeta Joan Maragall,Avenida del General Perón frente al nº 36,0
+Duquesa de la Victoria,Monuments,AVENIDA REINA VICTORIA 24,204 - Cuatro Caminos 2,Calle Doctor Santero nº 1,1
+Equilibrio horizontal móvil,Monuments,CALLE CAPITAN HAYA 41,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+Escultura abstracta en la calle Capitán Haya,Monuments,CALLE CAPITAN HAYA 41,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+Escultura modular inoxidable en la calle Orense,Monuments,CALLE ORENSE 58,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+Escultura trípode Cuzco,Monuments,PASEO CASTELLANA 143,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+Escultura Paraboloide Cuzco,Monuments,Pº Castellana 147,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+Escultura Caja Laboral,Monuments,PASEO CASTELLANA 167,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+Lámina de agua con Escultura,Monuments,CALLE FRANCISCO GERVAS 10,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+Estanque y cascada Cuzco,Monuments,Pº Castellana 149,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+Estanque rectangular Cuzco,Monuments,PASEO CASTELLANA 167,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+Estanque triple Cuzco,Monuments,PASEO CASTELLANA 137,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+"Mural Capitán Haya, 41",Monuments,CALLE CAPITAN HAYA 41,156 - Sor Ángela de la Cruz,Calle Sor Ángela de la Cruz nº 2,3
+América,Monuments,CALLE GUZMAN EL BUENO 133,203 - San Francisco de Sales,Calle General Ampudia nº 2,8
+Britannia,Monuments,C Guzmán el Bueno 133,203 - San Francisco de Sales,Calle General Ampudia nº 2,8
+Gallia,Monuments,C Guzmán el Bueno 133,203 - San Francisco de Sales,Calle General Ampudia nº 2,8
+Germania,Monuments,CALLE GUZMAN EL BUENO 133,203 - San Francisco de Sales,Calle General Ampudia nº 2,8
+Hiberia,Monuments,CALLE GUZMAN EL BUENO 133,203 - San Francisco de Sales,Calle General Ampudia nº 2,8
+Skandia,Monuments,CALLE GUZMAN EL BUENO 133,203 - San Francisco de Sales,Calle General Ampudia nº 2,8
+Fuente de las Naciones,Monuments,C Guzmán el Bueno 133,203 - San Francisco de Sales,Calle General Ampudia nº 2,8
+Fuente del parque de las Naciones,Monuments,C Guzmán el Bueno 133,203 - San Francisco de Sales,Calle General Ampudia nº 2,8
+Ave Fénix,Monuments,PASEO CASTELLANA 33,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Estanque circular en el Paseo de la Castellana,Monuments,Pº Castellana 42,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Fuente edificio Paseo de la Castellana 35,Monuments,Pº Castellana 35,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Fuente de la Unión y el Fénix,Monuments,Pº Castellana 33,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Toros ibéricos,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Estela de Venus,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Sirena Varada 'Lugar de Encuentros III',Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Móvil,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Estructura permutacional,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Plaza-Escultura,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Al otro lado del muro,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Mère Ubu,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Tríptico Paseo de la Castellana,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Mediterránea,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Proyecto para un monumento IV B,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Fuente cascada del Museo al aire libre,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Placa Museo al Aire Libre,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Unidades-Yunta,Monuments,PASEO CASTELLANA 35,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Volumen-relieve-arquitectura,Monuments,Pº Castellana 41,142 - Castellana 42,Paseo de la Castellana nº 42,5
+Esculturas gemelas de niños,Monuments,CALLE SANTISIMA TRINIDAD 37,201 - Canal,Calle José Abascal frente al nº 2,8
+Fuente del río Lozoya,Monuments,CALLE BRAVO MURILLO 49,201 - Canal,Calle José Abascal frente al nº 2,8
+Muro con escudo,Monuments,CALLE CEA BERMUDEZ 4,201 - Canal,Calle José Abascal frente al nº 2,8
+Niños en el Colegio Rufino Blanco,Monuments,CALLE GENERAL ALVAREZ DE CASTRO 46,201 - Canal,Calle José Abascal frente al nº 2,8
+Fuente de los jardines Enrique Herreros,Monuments,CALLE CEA BERMUDEZ 2,201 - Canal,Calle José Abascal frente al nº 2,8
+Enrique Herreros,Monuments,CALLE CEA BERMUDEZ 2,201 - Canal,Calle José Abascal frente al nº 2,8
+Fomento,Monuments,PASEO CASTELLANA 67,138 - Paseo de la Castellana con Raimundo Fernández,Paseo de la Castellana esquina calle Raimundo Fernández Villaverde,6
+Estanque norte Nuevos Ministerios,Monuments,PASEO CASTELLANA 67,138 - Paseo de la Castellana con Raimundo Fernández,Paseo de la Castellana esquina calle Raimundo Fernández Villaverde,6
+Estanque circular Nuevos Ministerios,Monuments,PASEO CASTELLANA 67,138 - Paseo de la Castellana con Raimundo Fernández,Paseo de la Castellana esquina calle Raimundo Fernández Villaverde,6
+Estanque rectangular Nuevos Ministerios,Monuments,PASEO CASTELLANA 67,138 - Paseo de la Castellana con Raimundo Fernández,Paseo de la Castellana esquina calle Raimundo Fernández Villaverde,6
+Mural y escultura bajo puente de Raimundo Fernández Villaverde,Monuments,C Raimundo Fernández Villaverde ,138 - Paseo de la Castellana con Raimundo Fernández,Paseo de la Castellana esquina calle Raimundo Fernández Villaverde,6
+Estatua La Paz,Monuments,Pº Castellana 261,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,11
+Mural La Paz,Monuments,Pº Castellana 261,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,11
+Mano,Monuments,Avda Manoteras 1,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,11
+Fuente de los Leones,Monuments,Avda Manoteras 1,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,11
+Ciudad Sanitaria La Paz,Monuments,Pº Castellana 261,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,11
+Monolitos Emblemáticos,Monuments,C Arturo Soria 340,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,11
+Fuente Pinar de Chamartín,Monuments,C Arturo Soria 348,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,11
+A los abuelos y abuelas,Monuments,C Alicún ,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,11
+Fuente ornamental Las Tablas,Monuments,AVENIDA CAMINO DE SANTIAGO 1,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,11
+Los Maratonistas,Monuments,C Martín Fierro s/n,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Fuente del Museo del Traje,Monuments,Avda Juan de Herrera 2,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Inauguración Parque Cuarto Depósito CYII,Monuments,CARRETERA CASTILLA 12,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+X aniversario Colegio Mayor Argentino Nuestra Señora de Luján,Monuments,C Martín Fierro ,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Dr. Arturo Umberto Illia,Monuments,C Martín Fierro ,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Instituto Nacional de Educación Física,Monuments,C Martín Fierro ,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+José de San Martín,Monuments,C Martín Fierro ,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Juan de Garay,Monuments,C Martín Fierro ,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Universidad Complutense de Madrid,Monuments,C Martín Fierro ,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Molino,Monuments,Avda Puerta de Hierro 4,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Cuatro estanques CYII,Monuments,CARRETERA CASTILLA 12,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Estanque con surtidores CYII,Monuments,CARRETERA CASTILLA 12,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Fuente de la Perdiz,Monuments,PASEO PIÑONERO 4,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Fuente de la Salud de la Casa de Campo,Monuments,PASEO PIÑONERO 4,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Paul Guinard,Monuments,C Paul Guinard (Casa de Velázquez) 3,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+Puerta de la Latina,Monuments,Avda Juan de Herrera 4,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+General Bernardo O´Higgins,Monuments,Pza Chile ,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+XXV aniversario Colegio Mayor Argentino,Monuments,C Martín Fierro ,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+XXV aniversario Colegio Mayor Argentino,Monuments,C Martín Fierro ,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,3
+"Agricultor, agricultura y progreso",Monuments,Avda Complutense ,259 - Ciudad Universitaria 2,Avenida de la Complutense (Metro Ciudad Universitaria),12
+Gregorio Marañón,Monuments,Pza Ramón y Cajal ,259 - Ciudad Universitaria 2,Avenida de la Complutense (Metro Ciudad Universitaria),12
+Estanque E. T. Superior de Ingenieros Agrónomos,Monuments,Avda Puerta de Hierro 4,259 - Ciudad Universitaria 2,Avenida de la Complutense (Metro Ciudad Universitaria),12
+Reloj de sol,Monuments,Avda Puerta de Hierro 4,259 - Ciudad Universitaria 2,Avenida de la Complutense (Metro Ciudad Universitaria),12
+Severo Ochoa,Monuments,PLAZA RAMON Y CAJAL 3,259 - Ciudad Universitaria 2,Avenida de la Complutense (Metro Ciudad Universitaria),12
+Tablero de ajedrez,Monuments,Avda Puerta de Hierro 4,259 - Ciudad Universitaria 2,Avenida de la Complutense (Metro Ciudad Universitaria),12
+Los portadores de la antorcha,Monuments,Pza Ramón y Cajal ,258 - Ciudad Universitaria 1,Avenida de la Complutense (Metro Ciudad Universitaria),9
+Homenaje victimas del 11-M,Monuments,Avda Complutense ,258 - Ciudad Universitaria 1,Avenida de la Complutense (Metro Ciudad Universitaria),9
+Facultad de Farmacia,Monuments,Pza Ramón y Cajal 2,258 - Ciudad Universitaria 1,Avenida de la Complutense (Metro Ciudad Universitaria),9
+Antorcha,Monuments,BARRIO CIUDAD UNIVERSITARIA ,258 - Ciudad Universitaria 1,Avenida de la Complutense (Metro Ciudad Universitaria),9
+Monolito en la avenida Paraninfo,Monuments,AVENIDA COMPLUTENSE 1,258 - Ciudad Universitaria 1,Avenida de la Complutense (Metro Ciudad Universitaria),9
+Blas Lázaro e Ibiza,Monuments,Pza Ramón y Cajal 2,258 - Ciudad Universitaria 1,Avenida de la Complutense (Metro Ciudad Universitaria),9
+Santo Ángel de la Guarda,Monuments,C Tutor 35,114 - Quintana,Calle Quintana nº 11,21
+Marqueses de Cavalcanti,Monuments,C Tutor 35,114 - Quintana,Calle Quintana nº 11,21
+Colegiales,Monuments,C Mirasierra 29,222 - Antonio López,Calle Eugenio Caxes frente al nº 12,18
+Fuente ornamental Marcelo Usera,Monuments,C Marcelo Usera 97,222 - Antonio López,Calle Eugenio Caxes frente al nº 12,18
+Placa Matadero en  Arganzuela,Monuments, ,222 - Antonio López,Calle Eugenio Caxes frente al nº 12,18
+Puentes del Invernadero y del Matadero,Monuments, ,222 - Antonio López,Calle Eugenio Caxes frente al nº 12,18
+Escultura geométrica I. E. S. Arcipreste de Hita,Monuments,Rda Sur 6,180 - Méndez Álvaro,Calle Retama nº 5,13
+Imax,Monuments,C Meneses ,180 - Méndez Álvaro,Calle Retama nº 5,13
+Estanque grande parque de Entrevías,Monuments,PARQUE ENTREVIAS ,180 - Méndez Álvaro,Calle Retama nº 5,13
+Dos estanques con ría del parque del Soto de Entrevías,Monuments,PARQUE ENTREVIAS ,180 - Méndez Álvaro,Calle Retama nº 5,13
+Miradores parque Enrique Tierno Galván,Monuments, ,180 - Méndez Álvaro,Calle Retama nº 5,13
+Rectángulo real ilusorio,Monuments,C Benjamín Palencia ,226 - Sierra Toledana,Camino de Valderribas nº 94,19
+La Virgen blanca,Monuments,C Pío Felipe 12,226 - Sierra Toledana,Camino de Valderribas nº 94,19
+Escultura en la calle Risco de Peloche,Monuments,C Risco de Peloche 14,226 - Sierra Toledana,Camino de Valderribas nº 94,19
+Luchador en reposo,Monuments,Pza Constitución ,226 - Sierra Toledana,Camino de Valderribas nº 94,19
+Estanque Guillermo Pingarrón,Monuments,C Guillermo Pingaron 4y6,226 - Sierra Toledana,Camino de Valderribas nº 94,19
+Estanque grande parque de Azorín,Monuments, ,226 - Sierra Toledana,Camino de Valderribas nº 94,19
+Escultura abstracta en la calle Tacoma,Monuments,C Tacoma 3,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Aula de informática Reina Sofía,Monuments,C Camino de la Arboleda ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+José María de la Cruz,Monuments,C San Jaime 21,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+José Agustín Pérez del Pulgar,Monuments,C San Jaime 21,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+La Vicalvarada,Monuments,PASEO ARTILLEROS 1,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Ramón Carande,Monuments,PASEO ARTILLEROS 1,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Vicálvaro a la Guardia Civil,Monuments,PASEO ARTILLEROS 1,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Escultura mural metálica I. E. S. Antonio Domínguez Ortiz,Monuments,C Andaluces 36,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Escudo heráldico,Monuments,PLAZA DON ANTONIO DE ANDRES 10,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Escultura Totémica II,Monuments, ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Escultura Totémica I,Monuments,PARQUE LINEAL DE PALOMERAS ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Lago Palomeras Este,Monuments, ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Colegio Nacional Padre Vitoria,Monuments,C Hacienda de Pavones 328,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Junta Municipal de Moratalaz,Monuments,C Fuente Carrantona 8,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Nicanor Barroso,Monuments,C Encomienda de Palacios ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Federico García Lorca,Monuments,Pº Federico García Lorca ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente monumental en cascada del parque Villa de Vallecas,Monuments, ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuentes de la Puerta del Sol,Monuments,Pº Federico García Lorca ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Francisco Fatou,Monuments,Cmno Suerte 23,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Juan Malasaña,Monuments,C Sierra Gorda 13,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Junta Municipal de Villa de Vallecas,Monuments,Pº Federico García Lorca 14,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Monolito Doña Rosita la Soltera,Monuments,Pº Federico García Lorca ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Monolito Romancero Gitano,Monuments,Pº Federico García Lorca 15,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Antonio de Andrés Martínez,Monuments,PLAZA DON ANTONIO DE ANDRES 1,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Leda y el cisne,Monuments,CALLE VILLABLANCA 41,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Cástor y Pólux,Monuments,C Villablanca 41,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Polideportivo de Vicálvaro,Monuments,PASEO POLIDEPORTIVO 3,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Enrique Tierno Galván,Monuments,PLAZA DON ANTONIO DE ANDRES 18,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Obelisco de la Vicalvarada,Monuments, ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Por la Paz y el Desarme,Monuments,AUDITORIO PARQUE DE LA VICALVARADA ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Humilladero de la ermita del Santo Cristo de la Guía,Monuments,CALLE CASALARREINA 26,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuentes en la glorieta Ruíz Giménez y monolito primera Fuente Canal Y II,Monuments,CALLE JOAQUIN RUIZ-GIMENEZ CORTES ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente Plaza Alosno,Monuments,PLAZA ALOSNO 4,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente plaza San Jaime,Monuments,C San Jaime ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente en homenaje a la Mujer,Monuments,PLAZA ALSACIA 1,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente Santa Eugenia,Monuments,Avda Santa Eugenia ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente San Cipriano,Monuments,CALLE LAGO SANABRIA 1,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente en la avenida Pablo Neruda,Monuments,Avda Miguel Hernández s/n,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Miguel Hernández,Monuments,Avda Albufera ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente en la avenida de la Albufera,Monuments,Avda Albufera ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Apeadero de Pavones,Monuments, ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente Pavones,Monuments, ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente plaza Munilla,Monuments,PLAZA MUNILLA 1,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Composición geométrica,Monuments,AUDITORIO PARQUE DE LA VICALVARADA ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente en la calle Fuente Carrantona,Monuments,C Arroyo Fontarrón s/n,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental I en Vicálvaro,Monuments,CALLE CASALARREINA 3,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental II en Vicálvaro,Monuments,C Casalarreina s/n,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental III,Monuments,CALLE CASALARREINA 3,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental IV en Vicálvaro,Monuments,C Casalarreina s/n,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental V en Vicálvaro,Monuments,CALLE CASALARREINA 3,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental VI en Vicálvaro,Monuments,C Casalarreina s/n,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Lago-ría-canal-estanque del parque Cuña Verde,Monuments,C Casalarreina s/n,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Anfiteatro del parque Cuña Verde de Vicálvaro,Monuments,CALLE CASALARREINA 3,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Busto Pablo Neruda,Monuments,Avda Pablo Neruda 40,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental Pico de Cierva,Monuments,C Montes de la Barbanza ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Cabeza olmeca,Monuments,Avda del Ensanche de Vallecas 13,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Rafael Alberti,Monuments,Avda Rafael Alberti 11,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental Cordel de Pavones,Monuments,CALLE CORDEL DE PAVONES 48,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental bulevar José Prat,Monuments,BULEVAR INDALECIO PRIETO 15,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental Ladera de los Almendros,Monuments,BULEVAR JOSE PRAT 5,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental Copérnico,Monuments,CALLE ANA MARISCAL 1,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Estanque Ensanche de Vallecas,Monuments,AVENIDA ENSANCHE DE VALLECAS 1,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental García Lorca-Congosto,Monuments,C Cogosto ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Monolito Poema del Cante Jondo,Monuments,Pº Federico García Lorca ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Ilusión truncada Monumento víctimas 11-M,Monuments,Avda Santa Eugenia ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Fuente ornamental Valderrebollo,Monuments,C Tineo ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Llanto por Ignacio Sánchez Mejías,Monuments,Pº Federico García Lorca ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Monolito Mariana Pineda,Monuments,Pº Federico García Lorca ,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+El Encuentro,Monuments,C Fuente Carrantona 8,221 - Pavones,Calle Hacienda de Pavones nº 342,16
+Nuestra Señora de Moratalaz,Monuments,C Entre Arroyos 19,218 - Camino Vinateros,Calle Camino de los Vinateros nº 28,16
+Escultura abstracta en el camino Vinateros,Monuments,Cmno Vinateros 51,218 - Camino Vinateros,Calle Camino de los Vinateros nº 28,16
+Madre e hijos,Monuments,Pza Corregidor Alonso de Aguilar ,218 - Camino Vinateros,Calle Camino de los Vinateros nº 28,16
+Fuente del parque Darwin,Monuments, ,218 - Camino Vinateros,Calle Camino de los Vinateros nº 28,16
+Doctor García Tapia,Monuments,C Arroyo Belincoso ,218 - Camino Vinateros,Calle Camino de los Vinateros nº 28,16
+Hogar Ferroviario-Trenes,Monuments,C Manuel María Arrillaga s/n,218 - Camino Vinateros,Calle Camino de los Vinateros nº 28,16
+Dos bajorrelieves Nª Sª del Rosario,Monuments,C Arturo Soria 278,254 - Pío XII,Avenida Pío XII nº 3,17
+Escultura de hormigón Instituto Eduardo Torroja,Monuments,C Serrano Galvache 4,254 - Pío XII,Avenida Pío XII nº 3,17
+Estanque trapezoidal Costillares,Monuments,C Serrano Galvache 4,254 - Pío XII,Avenida Pío XII nº 3,17
+Ancla,Monuments,C Arturo Soria 271,254 - Pío XII,Avenida Pío XII nº 3,17
+Escultura en la plaza Presidente Cárdenas,Monuments,PLAZA PRESIDENTE CARDENAS 1,254 - Pío XII,Avenida Pío XII nº 3,17
+Estanque Arturo Soria V,Monuments,C Arturo Soria 276,254 - Pío XII,Avenida Pío XII nº 3,17
+Estanque Arturo Soria VI,Monuments,C Arturo Soria 278,254 - Pío XII,Avenida Pío XII nº 3,17
+Monolito a Arturo Soria,Monuments,C Arturo Soria 233,254 - Pío XII,Avenida Pío XII nº 3,17
+Arcángel San Miguel,Monuments,C Costa del Sol 1,254 - Pío XII,Avenida Pío XII nº 3,17
+Fuente circular del barrio de San Miguel,Monuments,C Costa del Sol 1,254 - Pío XII,Avenida Pío XII nº 3,17
+Fuente del parque Doña Guiomar,Monuments, ,254 - Pío XII,Avenida Pío XII nº 3,17
+Polideportivo de Hortaleza,Monuments,Ctra Acceso a la Estación de Hortaleza ,254 - Pío XII,Avenida Pío XII nº 3,17
+Pilar I,Monuments,C Costa del Sol 2,254 - Pío XII,Avenida Pío XII nº 3,17
+Pilares II y III,Monuments,C Costa del Sol 8,254 - Pío XII,Avenida Pío XII nº 3,17
+Fuente en la plaza Cruz Latina,Monuments,Pza Cruz Latina ,254 - Pío XII,Avenida Pío XII nº 3,17
+Gloria Fuertes,Monuments,PLAZA PERU 1,254 - Pío XII,Avenida Pío XII nº 3,17
+Fuente en memoria de Pedro Barcina García,Monuments,Avda San Luis 106,254 - Pío XII,Avenida Pío XII nº 3,17
+Fuente en la plaza de Villalcázar de Sirga,Monuments,Pza Villalcázar de Sirga ,254 - Pío XII,Avenida Pío XII nº 3,17
+El Guerrero,Monuments,C Santa Irene ,233 - Marqués de Corbera 12,Avenida Marqués de Corbera nº 12,15
+Fuente mural en la Elipa,Monuments,Avda Marqués de Corbera 10,233 - Marqués de Corbera 12,Avenida Marqués de Corbera nº 12,15
+Fuente en la avenida Marqués de Corbera,Monuments,Avda Marqués de Corbera 1,233 - Marqués de Corbera 12,Avenida Marqués de Corbera nº 12,15
+San Juan de Dios,Monuments,C López de Hoyos 259,251 - Corazón de María,Calle Santa Hortensia nº 31,5
+Fuente San Juan de Dios,Monuments,C López de Hoyos 259,251 - Corazón de María,Calle Santa Hortensia nº 31,5
+Ángeles de la Paz,Monuments,Avda Bruselas ,251 - Corazón de María,Calle Santa Hortensia nº 31,5
+Félix Rodríguez de la Fuente,Monuments,PARQUE FELIX RODRIGUEZ DE LA FUENTE ,251 - Corazón de María,Calle Santa Hortensia nº 31,5
+General Martín Miguel de Güemes,Monuments,PLAZA CIUDAD DE SALTA 1,251 - Corazón de María,Calle Santa Hortensia nº 31,5
+San Cristóbal,Monuments,URBANIZACION CIUDAD PEGASO ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Pegaso,Monuments,Ctra Acceso al Aeropuerto ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Rapto de Europa,Monuments, Aeropuerto de Barajas ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque elíptico IVECO-Pegaso,Monuments,Avda Aragón 402,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Cruceiro Virgen del Camino,Monuments,C Fenelón 42,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Portada de Torre Arias,Monuments,CALLE ALCALA 551,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente del parque Arriaga,Monuments,C Arriaga 17,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente plaza Doctor Cirajas,Monuments,Pza Doctor Cirajas ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuentes en la plaza de Ciudad Lineal,Monuments,C Alcalá 416,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Centro de Servicios Sociales Luis Vives,Monuments,AVENIDA INSTITUCION LIBRE DE ENSE&amp;Ntilde;ANZA 160,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+La Ciudad Lineal,Monuments,C Hermanos García Noblejas 14,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Francisco Largo Caballero,Monuments,C Francisco Largo Caballero ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Antonio Machado,Monuments,CALLE SAN ROMAN DEL VALLE 8,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Conjunto escultórico parque Arquitecto Antonio Palacios,Monuments,CALLE FENELON 17,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+José Cubero (Yiyo),Monuments,CALLE SAN MARIANO 37,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Escultura La Vivienda,Monuments,CALLE JOSE RAMON VIZCAINO 5,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanques con dos fuentes en la Quinta de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque poligonal del parque Marqués de Suances,Monuments,Avda Veinticinco de Septiembre ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque elíptico de la Quinta de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente circular de la Quinta de los Molinos,Monuments,C Alcalá 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente del invernadero de la Quinta de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente de la Casa del Reloj de la Quinta de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente entre dos escaleras en la Quinta de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente con taza de piedra de la Quinta de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuentes gemelas de la Quinta de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente en la plaza Mora de Rubielos,Monuments,Pza Mora de Rubielos ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente neobarroca de la Quinta de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente del Bambú,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente Paraíso,Monuments,C Albaida 82,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Lago de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Centro Cultural Antonio Machado,Monuments,CALLE SAN ROMAN DEL VALLE 8,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Centro Juvenil Miguel de Cervantes,Monuments,CALLE FENELON 6,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Lápida a José Cubero (Yiyo),Monuments,CALLE CANAL DEL BOSFORO 30,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Nacho Ugalde,Monuments,PLAZA IGNACIO UGALDE 5,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Canillejas,Monuments,Pza Mora de Rubielos 4,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Columna corintia en la Quinta de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Columna jónica en la Quinta de los Molinos,Monuments,CALLE ALCALA 527,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Ensidesa,Monuments,AVENIDA VEINTICINCO DE SEPTIEMBRE 1,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Pilono Colonia Alfonso XIII,Monuments,GLORIETA MONTAÑA 2,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Reloj de sol,Monuments,AVENIDA ARCENTALES 2,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Baco,Monuments,PARQUE ALAMEDA DE OSUNA ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Columnas de los Enfrentados,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Columna de Saturno,Monuments,PARQUE ALAMEDA DE OSUNA ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Exedra,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Monumento al III duque de Osuna,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque circular de la avenida Cantabria,Monuments,Avda Cantabria ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque de los Cisnes,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanques del Parterre,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque de los Patos,Monuments,PARQUE ALAMEDA DE OSUNA ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque pequeño en la avenida Cantabria I,Monuments,Avda Cantabria ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque pequeño en la avenida Cantabria II,Monuments,Avda Cantabria ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque rectangular en la avenida Cantabria,Monuments,Avda Cantabria ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque de las Tencas,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente octogonal del parque del Capricho I,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente octogonal del parque del Capricho II,Monuments,PARQUE ALAMEDA DE OSUNA ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente en la plaza Mayor de Barajas,Monuments,PLAZA MAYOR DE BARAJAS 1,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente de la Casa de Oficios,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente cibernética del Auditorio del parque Juan Carlos I,Monuments,AUDITORIO JUAN CARLOS I ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente de los Delfines,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente de las Ranas,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Gruta de la Fuente de las Ranas,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Gruta del Laberinto,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Ría y lago de El Capricho,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Hermanos Falcó y Álvarez de Toledo,Monuments,PLAZA MAYOR DE BARAJAS 1,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Campana de la plaza Mercurio,Monuments,Pza Mercurio ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Puente de hierro sobre la ría,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Templete elíptico del Parque de El Capricho,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Primera Piedra Ciudad Lineal,Monuments,C Arturo Soria 3,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Manuel Rodríguez (Manolete),Monuments,CALLE ALCALA 551,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente Francisco Largo Caballero,Monuments,C Francisco Largo Caballero ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Miguel de Cervantes,Monuments,AVENIDA ARCENTALES 12,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Al Siglo XXI,Monuments,AVENIDA CANILLEJAS A VICALVARO 159,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Lápida parque Marqués de Suanzes,Monuments,AVENIDA VEINTICINCO DE SEPTIEMBRE 1,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente en la plaza Navío,Monuments,Pza Navío ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente en la avenida de Logroño I,Monuments,AVENIDA LOGROÑO 2,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente en la avenida de Logroño II,Monuments,Avda Logroño ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente en la avenida de Logroño III,Monuments,Avda Logroño 38,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente en la avenida de Logroño IV,Monuments,Avda Logroño 42,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente con escultura en la avenida de Logroño,Monuments,Avda Logroño ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente de la plaza de Mercurio,Monuments,Pza Mercurio ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente en la avenida de Logroño V,Monuments,Avda Logroño 191,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuentes en la calle Hermanos García Noblejas,Monuments,AVENIDA INSTITUCION LIBRE DE ENSE&amp;Ntilde;ANZA 128,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente Poliedros Maclados en el Cubo,Monuments,C Castillo de Uclés 36,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente del nuevo acceso al parque Juan Carlos I,Monuments,Avda Logroño 179,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente elíptica en la avenida de Logroño,Monuments,Avda Logroño 183,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Centro Integrado Teresa de Calcuta,Monuments,Pza Navío ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente circular del barrio Alameda de Osuna,Monuments,C Bergantín ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Plaza de los Emperadores,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Estanque Puerta Logroño,Monuments, ,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente en la avenida de Logroño VI,Monuments,Avda Logroño 205,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fray Pedro Ponce de León,Monuments,AVENIDA CANILLEJAS A VICALVARO 82,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6
+Fuente de los Peces,Monuments,PASEO LA HABANA 1,150 - Castellana frente a Hermanos Pinzón,Paseo de la Castellana nº 122,0
+Fuente plaza de Quito,Monuments,PLAZA QUITO ,150 - Castellana frente a Hermanos Pinzón,Paseo de la Castellana nº 122,0
+Luis Fernández Ardavín,Monuments,Pza Poeta Manuel del Palacio 4,150 - Castellana frente a Hermanos Pinzón,Paseo de la Castellana nº 122,0
+Fuente del Centro de investigaciones biológicas C.S.I.C.,Monuments,CALLE VELAZQUEZ 144,140 - Velázquez 130,Calle Velázquez nº 130,4
+Pairón o Peirón,Monuments,C María de Molina ,140 - Velázquez 130,Calle Velázquez nº 130,4
+Fuentes gemelas López de Hoyos,Monuments,CALLE LOPEZ DE HOYOS 27,140 - Velázquez 130,Calle Velázquez nº 130,4
+Fuente del Ministerio de Industria,Monuments,PASEO CASTELLANA 158,253 - Doctor Fleming,Calle Doctor Fleming nº 7,8
+Pedro Escartín,Monuments,PASEO CASTELLANA 142,253 - Doctor Fleming,Calle Doctor Fleming nº 7,8
+Fuente del Ministerio de Economía,Monuments,PASEO CASTELLANA 166,157 - Castellana 164,Paseo de la Castellana nº 164,14
+Al Niño,Monuments,AVENIDA ALBERTO ALCOCER 1,157 - Castellana 164,Paseo de la Castellana nº 164,14
+Fuente Géminis,Monuments,CALLE RAIMUNDO FERNANDEZ VILLAVERDE 34,133 - Raimundo Fernández,Calle Raimundo Fernández Villaverde nº 33,1
+Tríptico en el Hospital de Jornaleros,Monuments,CALLE MAUDES 17,133 - Raimundo Fernández,Calle Raimundo Fernández Villaverde nº 33,1
+Fuente de la Vaguada,Monuments,CALLE GINZO DE LIMIA 2,207 - Remonta,Calle Azucenas nº 1,12
+Mural la Remonta,Monuments,PLAZA REMONTA 1,207 - Remonta,Calle Azucenas nº 1,12
+Fuentes del parque Vaguada,Monuments,Avda Betanzos ,207 - Remonta,Calle Azucenas nº 1,12
+Centro Cultural Remonta,Monuments,PLAZA REMONTA 12,207 - Remonta,Calle Azucenas nº 1,12
+Monolito de Pizarra II,Monuments,Avda Betanzos ,207 - Remonta,Calle Azucenas nº 1,12
+Hombres y Proporciones,Monuments,PASAJE MAESTROS LADRILLEROS 1,207 - Remonta,Calle Azucenas nº 1,12
+Fuente Cascada-Reloj Noria,Monuments,CALLE SINESIO DELGADO 40,207 - Remonta,Calle Azucenas nº 1,12
+Fuente de San Isidro,Monuments,Pº Quince de Mayo 62,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Atrio de la ermita de San Isidro,Monuments,Pº Ermita del Santo 78,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Francisco de Goya,Monuments,Pº Ermita del Santo ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Ventana a Madrid,Monuments,C San Isidro ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Estanque central del parque de San Isidro,Monuments,PARQUE SAN ISIDRO ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Estanque este del parque de San Isidro,Monuments,PARQUE SAN ISIDRO ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Estanque oeste del parque de San Isidro,Monuments,PARQUE SAN ISIDRO ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Fuente de los Barcos,Monuments,PARQUE SAN ISIDRO ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Fuente circular del parque de San Isidro,Monuments,C San Isidro ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Fuente de la escultura 'Ventana a Madrid',Monuments,Pº Quince de Mayo ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Parque de San Isidro,Monuments,Pº Ermita del Santo ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Roger de Flor,Monuments,Pza Roger de Flor ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Mártires de la Sacramental de San Isidro,Monuments,Pº Ermita del Santo 78,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Cruceiro de la Ermita de San Isidro,Monuments,Pº Ermita del Santo 78,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Jardines del Maestro Padilla,Monuments, ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Fuente ornamental del parque Cuña Verde,Monuments,PARQUE CUÑA VERDE ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Lago artificial en el parque Cuña Verde,Monuments,PARQUE CUÑA VERDE ,223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Puente Principado de Andorra,Monuments,"Avda Manzanares, del 48",223 - Ermita Santo,Paseo de la Ermita del Santo nº 48,5
+Puerta Real del Jardín Botánico,Monuments,Pº Prado 11,67 - Almadén,Calle Almadén nº 28,15
+Fuentecillas del Prado,Monuments,Pº Prado ,67 - Almadén,Calle Almadén nº 28,15
+Rafael Martínez Molina,Monuments,C Atocha 105,67 - Almadén,Calle Almadén nº 28,15
+Capiteles Paseo del Prado,Monuments,Pº Prado ,67 - Almadén,Calle Almadén nº 28,15
+Planta cimientos Fábrica Platerías,Monuments,Pza Platería de Martínez 1,67 - Almadén,Calle Almadén nº 28,15
+Planta cimientos Convento Trinitarios,Monuments,Pza Platería de Martínez ,67 - Almadén,Calle Almadén nº 28,15
+Iglesia de San Juan Evangelista,Monuments,Pza Venecia 1,242 - Avenida Bruselas,Avenida Bruselas nº 56,11
+Fuente en la calle Brescia,Monuments,C Brescia 1,242 - Avenida Bruselas,Avenida Bruselas nº 56,11
+Mártires San Fermín de los Navarros,Monuments,PASEO EDUARDO DATO 10,198 - Rubén Darío,Glorieta Rubén Darío 2,7
+Rubén Darío,Monuments,GLORIETA RUBEN DARIO 1,198 - Rubén Darío,Glorieta Rubén Darío 2,7
+Federico Romero Sarachaga,Monuments,CALLE EL ESPA&amp;Ntilde;OLETO 23,198 - Rubén Darío,Glorieta Rubén Darío 2,7
+Rubén Darío,Monuments,GLORIETA RUBEN DARIO 4,198 - Rubén Darío,Glorieta Rubén Darío 2,7
+Enrique de la Mata Gorostizaga,Monuments,Gta Rubén Darío 4,198 - Rubén Darío,Glorieta Rubén Darío 2,7
+Parque de las Naciones,Monuments,CALLE GUZMAN EL BUENO 1,123 - Guzmán el Bueno,Calle Guzmán el Bueno nº 1,7
+Si todos los hombres...,Monuments,CALLE GUZMAN EL BUENO 1,123 - Guzmán el Bueno,Calle Guzmán el Bueno nº 1,7
+El Pueblo Español tiene un camino que conduce a una estrella,Monuments,C Sánchez Bustillo ,50 - Museo Reina Sofía,Calle Santa Isabel nº 57,9
+Santiago Ramón y Cajal,Monuments,C Santa Isabel 51,50 - Museo Reina Sofía,Calle Santa Isabel nº 57,9
+Mosaicos murales,Monuments,Pza Juan Pujol ,59 - Plaza de Juan Pujol,Calle Espíritu Santo nº 30,17
+Pinturas Mingote,Monuments,C de la Sal ,32 - Plaza de la Provincia,Plaza de la Provincia nº 1,5
+Adhesión de España a la Comunidad Europea,Monuments,PLAZA PROVINCIA 1,32 - Plaza de la Provincia,Plaza de la Provincia nº 1,5
+Santa María de la Cabeza,Monuments,CALLE TOLEDO 1,32 - Plaza de la Provincia,Plaza de la Provincia nº 1,5
+Fuente de Orfeo,Monuments,Pza Provincia ,32 - Plaza de la Provincia,Plaza de la Provincia nº 1,5
+Planta de la torre de la iglesia de Santa Cruz,Monuments,Pza Santa Cruz 1,32 - Plaza de la Provincia,Plaza de la Provincia nº 1,5
+Museo de los Toreros,Monuments,C Alcalá 231,193 - Ventas,Avenida de los Toreros nº 49,9
+Inauguración Parque Cuarto Depósito CYII,Monuments,Ctra Castilla 9,209 - Plaza de Castilla 2,Paseo Castellana (Fundación Canal),9
+José Calvo Sotelo,Monuments,PLAZA CASTILLA 1,209 - Plaza de Castilla 2,Paseo Castellana (Fundación Canal),9
+Fuente Plaza de Castilla,Monuments,PLAZA CASTILLA 1,209 - Plaza de Castilla 2,Paseo Castellana (Fundación Canal),9
+Columna de Calatrava,Monuments,PLAZA CASTILLA 1,209 - Plaza de Castilla 2,Paseo Castellana (Fundación Canal),9
+Mural Palacio de Congresos,Monuments,AVENIDA GENERAL PERON 1,152 - General Perón 1,Avenida del General Perón frente al nº 4,0
+Juan Domingo Perón,Monuments,AVENIDA GENERAL PERON 1,152 - General Perón 1,Avenida del General Perón frente al nº 4,0
+Mural El Árbol de la Vida,Monuments,C Marcelo Usera 170,228 - San Delfín,Calle San Delfín nº 9,17
+Fuente mural en la calle Marcelo Usera,Monuments,C Manuel Noya ,228 - San Delfín,Calle San Delfín nº 9,17
+Fuente octogonal del parque Olof Palme,Monuments, ,228 - San Delfín,Calle San Delfín nº 9,17
+Junta Municipal Usera,Monuments,Avda Rafaela Ybarra 41,228 - San Delfín,Calle San Delfín nº 9,17
+Traída de aguas al Barrio de Usera,Monuments,C Marcelo Usera 144,228 - San Delfín,Calle San Delfín nº 9,17
+Monolito del parque Olof Palme II,Monuments, ,228 - San Delfín,Calle San Delfín nº 9,17
+Hombre con niño,Monuments,C Antonio López ,228 - San Delfín,Calle San Delfín nº 9,17
+La Paloma de la paz,Monuments,C Baleares ,228 - San Delfín,Calle San Delfín nº 9,17
+Monolito parque Olof Palme I,Monuments, ,228 - San Delfín,Calle San Delfín nº 9,17
+Fuente del parque de Comillas,Monuments, ,228 - San Delfín,Calle San Delfín nº 9,17
+Monolito Rafaela Ybarra,Monuments,Avda Rafaela Ybarra 41,228 - San Delfín,Calle San Delfín nº 9,17
+Álvaro de Bazán,Monuments,Pza Villa ,35 - Plaza del Cordón,Plaza del Cordón,10
+Fuente de la Cruz Verde,Monuments,Pza Cruz Verde ,35 - Plaza del Cordón,Plaza del Cordón,10
+Puerta Cerrada,Monuments,Pza Puerta Cerrada ,35 - Plaza del Cordón,Plaza del Cordón,10
+Carlos Lezcano,Monuments,C Rollo 3,35 - Plaza del Cordón,Plaza del Cordón,10
+Eugenio d'Ors,Monuments,Pza Cordón 2,35 - Plaza del Cordón,Plaza del Cordón,10
+Felipe Picatoste Rodríguez,Monuments,Pza Cordón 3,35 - Plaza del Cordón,Plaza del Cordón,10
+Cruz Puerta Cerrada,Monuments,Pza Puerta Cerrada ,35 - Plaza del Cordón,Plaza del Cordón,10
+El lector,Monuments,C San Justo ,35 - Plaza del Cordón,Plaza del Cordón,10
+Gonzalo Ceballos,Monuments,Pza Cordón 2,35 - Plaza del Cordón,Plaza del Cordón,10
+Fuente Jardín Príncipe de Anglona,Monuments, ,35 - Plaza del Cordón,Plaza del Cordón,10
+Fuente de taza baja Jardín Príncipe de Anglona,Monuments,Pza Paja ,35 - Plaza del Cordón,Plaza del Cordón,10
+Pedro Calderón de la Barca,Monuments,Pza Santa Ana ,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,22
+Jacinto Benavente,Monuments,CALLE ATOCHA 26,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,22
+Fundacion de la Falange Española,Monuments,C Príncipe 14,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,22
+Joaquín Ibarra,Monuments,C Núñez de Arce 11,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,22
+Federico García Lorca,Monuments,Pza Santa Ana ,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,22
+José Rizal,Monuments,C Manuel Fernández y González 7,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,22
+José Zorrilla y Moral,Monuments,C Huertas 17,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,22
+Gustavo Adolfo Bécquer,Monuments,CALLE HUERTAS 20,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,22
+Luis de Góngora y Argote,Monuments,C Huertas 16,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,22
+La Solidaridad,Monuments,C Atocha 43,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,22
+Eloy Gonzalo 'Cascorro',Monuments,Pza Cascorro ,39 - Plaza de la Cebada,Plaza de la Cebada nº 16 ,20
+Fuentecilla del Leal,Monuments,C Toledo ,39 - Plaza de la Cebada,Plaza de la Cebada nº 16 ,20
+Vicente Pastor,Monuments,C Embajadores 5,39 - Plaza de la Cebada,Plaza de la Cebada nº 16 ,20
+Fuente de la Cebada,Monuments,C Toledo ,39 - Plaza de la Cebada,Plaza de la Cebada nº 16 ,20
+Antonio Zozaya,Monuments,Pza General Vara del Rey 14,39 - Plaza de la Cebada,Plaza de la Cebada nº 16 ,20
+Felipe III,Monuments,Pza Mayor ,31 - Calle Mayor,Calle Mayor nº 20,0
+Luis Muñoz Rivera,Monuments,C Mayor 13,31 - Calle Mayor,Calle Mayor nº 20,0
+Héroes del Siete de Julio,Monuments,C Mayor 24,31 - Calle Mayor,Calle Mayor nº 20,0
+José María Soler y Guijarro,Monuments,Pza Mayor 27,31 - Calle Mayor,Calle Mayor nº 20,0
+Casa de la Panadería,Monuments,Pza Mayor 27,31 - Calle Mayor,Calle Mayor nº 20,0
+Casa de la Panadería,Monuments,Pza Mayor 27,31 - Calle Mayor,Calle Mayor nº 20,0
+Andrómaca,Monuments,PASEO RECOLETOS 1,86 - Cibeles,Plaza Cibeles,21
+Fuente de Apolo,Monuments,Pº Prado ,86 - Cibeles,Plaza Cibeles,21
+Fuente de Cibeles,Monuments,Pza Cibeles ,86 - Cibeles,Plaza Cibeles,21
+Fuente en cascada antigua Mariblanca,Monuments,Pº Recoletos ,86 - Cibeles,Plaza Cibeles,21
+Primera Piedra del Banco España,Monuments,Pº Prado 2,86 - Cibeles,Plaza Cibeles,21
+Inauguración del Banco España,Monuments,Pº Prado 2,86 - Cibeles,Plaza Cibeles,21
+Obelisco del 2 de Mayo y Caídos por España,Monuments,Pza Lealtad ,86 - Cibeles,Plaza Cibeles,21
+Fuente de los Patos,Monuments,Pº Prado ,86 - Cibeles,Plaza Cibeles,21
+Fuente del niño o fuente de Finlandia,Monuments,Pº Prado ,86 - Cibeles,Plaza Cibeles,21
+Jarrones de la Fuente de los Patos,Monuments,Pº Prado ,86 - Cibeles,Plaza Cibeles,21
+Columnas del Paseo del Prado,Monuments,Pº Prado ,86 - Cibeles,Plaza Cibeles,21
+Niños con jarrón de Cibeles,Monuments,Pza Cibeles ,86 - Cibeles,Plaza Cibeles,21
+Monolito Recoletos,Monuments,Pº Recoletos ,86 - Cibeles,Plaza Cibeles,21
+Agustín Lara,Monuments,C Sombrerete 15,44 - Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,5
+Luigi Boccherini,Monuments,C Jesús y María 3,44 - Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,5
+Iglesia San Cayetano,Monuments,C Embajadores 15,44 - Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,5
+Fuente de Cabestreros,Monuments,C Mesón de Paredes ,44 - Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,5
+Gaspar Melchor de Jovellanos,Monuments,C Juanelo 18,44 - Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,5
+Lámina de agua de Cabestreros,Monuments,"Pza Cabestreros, de ",44 - Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,5
+Restos Convento Santa Catalina de Sena,Monuments,"Pza Cabestreros, de ",44 - Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,5
+Ramón Mesonero Romanos,Monuments,CALLE BARCELO 1,54 - Barceló,Calle Barceló nº 7,19
+Fama,Monuments,C Barceló ,54 - Barceló,Calle Barceló nº 7,19
+Jesús Guridi,Monuments,C Sagasta 12,54 - Barceló,Calle Barceló nº 7,19
+Antonio Paso Cano,Monuments,C Apodaca 9,54 - Barceló,Calle Barceló nº 7,19
+José  Serrano Simeón,Monuments,C Beneficencia 2,54 - Barceló,Calle Barceló nº 7,19
+Reveriano Soutullo,Monuments,C Apodaca 7,54 - Barceló,Calle Barceló nº 7,19
+Emilia Pardo Bazán,Monuments,C Princesa ,14 - Ventura Rodríguez,Calle Duque de Liria,0
+Duque de Alba y de Berwick,Monuments,C Princesa 20,14 - Ventura Rodríguez,Calle Duque de Liria,0
+Reflexiones (Los cubos),Monuments,C Princesa 5,14 - Ventura Rodríguez,Calle Duque de Liria,0
+Antonio Mingote,Monuments,Pza Cristino Martos 5,14 - Ventura Rodríguez,Calle Duque de Liria,0
+Jean-Jacques Rousseau,Monuments,Pza Salesas ,26 - Plaza de las Salesas,Plaza de las Salesas 7,20
+Educación de la Infancia,Monuments,PLAZA SALESAS 1,26 - Plaza de las Salesas,Plaza de las Salesas 7,20
+Teniente Jacinto Ruíz Mendoza,Monuments,Pza Rey ,20a - Banco de España A,Calle Alcalá nº 49,0
+Lugar de Encuentros II,Monuments,Pza Rey ,20a - Banco de España A,Calle Alcalá nº 49,0
+Eduardo Marquina,Monuments,C Barquillo 7,20a - Banco de España A,Calle Alcalá nº 49,0
+Fuente en la plaza del Rey,Monuments,Pza Rey ,20a - Banco de España A,Calle Alcalá nº 49,0
+Maqueta Centenario de la Gran Vía,Monuments,C Gran Vía 1,20a - Banco de España A,Calle Alcalá nº 49,0
+Columnas de la casa de las Siete Chimeneas,Monuments,C Infantas 31,20a - Banco de España A,Calle Alcalá nº 49,0
+Tirso de Molina,Monuments,Pza Tirso de Molina ,40 - Conde de Romanones,Plaza del Conde de Romanones nº 9,15
+Farolero madrileño,Monuments,C Concepción Jerónima 15,40 - Conde de Romanones,Plaza del Conde de Romanones nº 9,15
+Ignacio Zuloaga,Monuments,Pza Gabriel Miró ,37 - Plaza de San Francisco,Plaza de San Francisco nº 5,10
+Fuente pilón Vistillas,Monuments,Pza Gabriel Miró ,37 - Plaza de San Francisco,Plaza de San Francisco nº 5,10
+Fray Francisco Cabezas,Monuments,Pza San Francisco el Grande 1,37 - Plaza de San Francisco,Plaza de San Francisco nº 5,10
+Avenida Reyes Católicos,Monuments,Pza San Francisco el Grande 1,37 - Plaza de San Francisco,Plaza de San Francisco nº 5,10
+Centro Tercera Edad,Monuments,C Jerte ,37 - Plaza de San Francisco,Plaza de San Francisco nº 5,10
+San Isidro,Monuments, ,37 - Plaza de San Francisco,Plaza de San Francisco nº 5,10
+Daoiz y Velarde y Arco de Monteleón,Monuments,Pza Dos de Mayo ,11 - San Andrés,Calle San Andrés nº 18,16
+Luis Calvo Sotelo,Monuments,Pza Dos de Mayo ,11 - San Andrés,Calle San Andrés nº 18,16
+Daoiz y Velarde,Monuments,Pza Dos de Mayo ,11 - San Andrés,Calle San Andrés nº 18,16
+Las Lecturas del Dos de Mayo,Monuments,Pza Dos de Mayo ,11 - San Andrés,Calle San Andrés nº 18,16
+Oso y Madroño,Monuments,C Carmen ,1a - Puerta del Sol A,Puerta del Sol nº 1,0
+Francisco Alonso,Monuments,CALLE ALCALA 1,1a - Puerta del Sol A,Puerta del Sol nº 1,0
+Valle-Inclán. Café de la Montaña,Monuments,C Alcalá 2,1a - Puerta del Sol A,Puerta del Sol nº 1,0
+Fuente pilón circular de la plaza de los Carros,Monuments,Pza Carros ,38 - Plaza de los Carros,Carrera de San Francisco nº 1,12
+Fuente mural de la plaza de los Carros,Monuments,Pza Carros ,38 - Plaza de los Carros,Carrera de San Francisco nº 1,12
+Juan López de Hoyos,Monuments,Pza San Andrés ,38 - Plaza de los Carros,Carrera de San Francisco nº 1,12
+Lina Morgan,Monuments,C Don Pedro 4,38 - Plaza de los Carros,Carrera de San Francisco nº 1,12
+José López Silva,Monuments,C Cava Baja 42,38 - Plaza de los Carros,Carrera de San Francisco nº 1,12
+Hombre Sentado,Monuments,Pza Paja ,38 - Plaza de los Carros,Carrera de San Francisco nº 1,12
+Juan Ferreras García,Monuments,Pza San Andrés ,38 - Plaza de los Carros,Carrera de San Francisco nº 1,12
+Virgen María,Monuments,PLAZA SAN ANDRES 1,38 - Plaza de los Carros,Carrera de San Francisco nº 1,12
+Campana de La Paz,Monuments,Pza San Andrés 1,38 - Plaza de los Carros,Carrera de San Francisco nº 1,12
+Fuente de San Antón,Monuments,C Hortaleza ,6 - Colegio Arquitectos,Calle Hortaleza nº 63,0
+Juan de Villanueva,Monuments,C Hernán Cortés 15,6 - Colegio Arquitectos,Calle Hortaleza nº 63,0
+Academia de Farmacia,Monuments,C Farmacia 9,6 - Colegio Arquitectos,Calle Hortaleza nº 63,0
+Eugenio d´Ors Rovira,Monuments,Pº Prado ,27 - Huertas,Calle Jesús nº 1,9
+Miguel de Cervantes,Monuments,C Lope de Vega 18,27 - Huertas,Calle Jesús nº 1,9
+Fernández Caballero Manuel,Monuments,C Cervantes 34,27 - Huertas,Calle Jesús nº 1,9
+Leandro Fernández de Moratín,Monuments,CALLE MORATIN 35,27 - Huertas,Calle Jesús nº 1,9
+León Felipe,Monuments,C Huertas 64,27 - Huertas,Calle Jesús nº 1,9
+Mateo Inurria,Monuments,CALLE QUEVEDO 5,27 - Huertas,Calle Jesús nº 1,9
+Fuente-estanque Paseo del Prado,Monuments,Pº Prado 20,27 - Huertas,Calle Jesús nº 1,9
+Organización de Profesionales y Autónomos O.P.A.,Monuments,Pº Prado ,27 - Huertas,Calle Jesús nº 1,9
+Fuente Platerías Martínez,Monuments,Pza Platería de Martínez ,27 - Huertas,Calle Jesús nº 1,9
+José de Espronceda,Monuments,C Huertas 80,27 - Huertas,Calle Jesús nº 1,9
+Mariano José de Larra,Monuments,C Huertas 74,27 - Huertas,Calle Jesús nº 1,9
+Leandro Fernández de Moratín,Monuments,CALLE HUERTAS 72,27 - Huertas,Calle Jesús nº 1,9
+Nicolás Fernández de Moratín,Monuments,C Huertas 69,27 - Huertas,Calle Jesús nº 1,9
+León Felipe,Monuments,C Huertas 58,27 - Huertas,Calle Jesús nº 1,9
+Félix Lope de Vega Carpio,Monuments,C Huertas 49,27 - Huertas,Calle Jesús nº 1,9
+Sor Marcela de San Félix,Monuments,C Huertas 47,27 - Huertas,Calle Jesús nº 1,9
+Lope de Vega,Monuments,C Cervantes 11,27 - Huertas,Calle Jesús nº 1,9
+Premio Europa Nostra 2003,Monuments,C Huertas 47,27 - Huertas,Calle Jesús nº 1,9
+Escultura en el Consejo Económico y Social,Monuments,C Huertas 73,27 - Huertas,Calle Jesús nº 1,9
+Vázquez de Mella,Monuments,Pza Vázquez de Mella ,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,0
+Mesonero Romanos,Monuments,Pza Vázquez de Mella 7,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,0
+Lazo Homenaje lucha contra el Sida,Monuments,Pza Vázquez de Mella ,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,0
+Puerta de Toledo,Monuments,Gta Puerta de Toledo ,45 - Puerta de Toledo,Glorieta de la Puerta de Toledo nº 1,12
+Reloj de sol Puerta Toledo,Monuments,Gta Puerta de Toledo ,45 - Puerta de Toledo,Glorieta de la Puerta de Toledo nº 1,12
+Real Cerca de Felipe IV,Monuments,Rda Ronda de Segovia ,45 - Puerta de Toledo,Glorieta de la Puerta de Toledo nº 1,12
+Pedro Antonio de Alarcón,Monuments,C Atocha 94,42 - Santa Isabel,Calle Atocha nº 95,17
+Baltasar Bachero,Monuments,C Salitre 34,42 - Santa Isabel,Calle Atocha nº 95,17
+Carnicer Betllé Ramón,Monuments,CALLE SANTA ISABEL 38,42 - Santa Isabel,Calle Atocha nº 95,17
+Fernando Fresno,Monuments,C Santa Isabel 28,42 - Santa Isabel,Calle Atocha nº 95,17
+Juan Ramón Gómez Pamo,Monuments,C Santa Isabel 28,42 - Santa Isabel,Calle Atocha nº 95,17
+Imprenta Juan de la Cuesta,Monuments,C Atocha 87,42 - Santa Isabel,Calle Atocha nº 95,17
+Marqués de Valdavia,Monuments,C Atocha 80,42 - Santa Isabel,Calle Atocha nº 95,17
+Fuente de Santa Isabel,Monuments,C Santa Isabel 48,42 - Santa Isabel,Calle Atocha nº 95,17
+Imprenta Juan de la Cuesta,Monuments,C San Eugenio 7,42 - Santa Isabel,Calle Atocha nº 95,17
+Carlos Arniches,Monuments,C Carlos Arniches 31,46 - Ribera de Curtidores,Calle Ribera de Curtidores nº 28,9
+Protección a la Infancia,Monuments,Pza Campillo del Mundo Nuevo ,46 - Ribera de Curtidores,Calle Ribera de Curtidores nº 28,9
+Artieda y Labiano,Monuments,C Navas de Tolosa 10,22 - Jacometrezo,Calle Jacometrezo nº 3,0
+Enrique Carrión,Monuments,C Gran Vía 41,22 - Jacometrezo,Calle Jacometrezo nº 3,0
+Rubén Darío,Monuments,CALLE VENERAS 4,22 - Jacometrezo,Calle Jacometrezo nº 3,0
+Edificio de la Beneficiencia,Monuments,C Ternera 2,22 - Jacometrezo,Calle Jacometrezo nº 3,0
+José María Torrijos,Monuments,C Preciados 30,22 - Jacometrezo,Calle Jacometrezo nº 3,0
+Jaime Balmes,Monuments,C Leganitos 5,23 - Santo Domingo,Plaza de Santo Domingo nº 1,23
+Tomás Bretón,Monuments,CALLE CAMPOMANES 10,23 - Santo Domingo,Plaza de Santo Domingo nº 1,23
+María Teresa Rodríguez del Toro de Bolívar,Monuments,C Fuencarral 2,211 - Desengaño,Calle Desengaño nº 1,23
+Fernández Valliciergo Vicente,Monuments,C Ballesta 7,211 - Desengaño,Calle Desengaño nº 1,23
+Proalí,Monuments,CALLE FUENCARRAL 1,211 - Desengaño,Calle Desengaño nº 1,23
+José María Iparraguirre,Monuments,C Montera 48,211 - Desengaño,Calle Desengaño nº 1,23
+José Martí,Monuments,C Desengaño ,211 - Desengaño,Calle Desengaño nº 1,23
+Beata Maria Ana de Jesús,Monuments,C Valverde 15,211 - Desengaño,Calle Desengaño nº 1,23
+Simón Bolívar y María Teresa del Toro,Monuments,C Gravina 19,58 - Augusto Figueroa,Calle Augusto Figueroa nº 33,0
+Enrique Jardiel Poncela,Monuments,C Augusto Figueroa 29,58 - Augusto Figueroa,Calle Augusto Figueroa nº 33,0
+Leonardo Torres Quevedo,Monuments,C Válgame Dios 3,58 - Augusto Figueroa,Calle Augusto Figueroa nº 33,0
+Eduardo Rosales,Monuments,CALLE LIBERTAD 23,58 - Augusto Figueroa,Calle Augusto Figueroa nº 33,0
+Botica de José Ortega Hernández,Monuments,C Montera 17,56 - Plaza del Carmen ,Plaza del Carmen nº 1,0
+Pepín Fernández,Monuments,Pza Carmen ,56 - Plaza del Carmen ,Plaza del Carmen nº 1,0
+Juan Gris,Monuments,C Carmen 4,56 - Plaza del Carmen ,Plaza del Carmen nº 1,0
+Cuerpo de Bomberos,Monuments,C Montera 31,56 - Plaza del Carmen ,Plaza del Carmen nº 1,0
+Calderón de la Barca,Monuments,C Mayor 61,9 - Plaza de San Miguel,Plaza de San Miguel nº 9,10
+Iglesia San Salvador,Monuments,C Mayor 70,9 - Plaza de San Miguel,Plaza de San Miguel nº 9,10
+Ricardo Villa,Monuments,Trav Bringas 1,9 - Plaza de San Miguel,Plaza de San Miguel nº 9,10
+Fuente en la calle Espejo,Monuments,C Espejo 8,9 - Plaza de San Miguel,Plaza de San Miguel nº 9,10
+Calle de Santiago,Monuments,C Santiago 6,9 - Plaza de San Miguel,Plaza de San Miguel nº 9,10
+Calle de Milaneses,Monuments,C Milaneses 1,9 - Plaza de San Miguel,Plaza de San Miguel nº 9,10
+Botica de la Reina Madre,Monuments,C Mayor 59,9 - Plaza de San Miguel,Plaza de San Miguel nº 9,10
+Rosalía de Castro,Monuments,C Ballesta 13,17 - Carlos Cambronero,Plaza de Carlos Cambronero nº 2,22
+Augusto d'Halmar,Monuments,CALLE LORETO Y CHICOTE 8,17 - Carlos Cambronero,Plaza de Carlos Cambronero nº 2,22
+Miguel de Cervantes,Monuments,C Cervantes 2,41 - Antón Martín,Calle Atocha nº 54,13
+Marcelino Menéndez Pelayo,Monuments,C León 21,41 - Antón Martín,Calle Atocha nº 54,13
+"Antonia Mercé, la Argentina",Monuments,C Ave María 8,41 - Antón Martín,Calle Atocha nº 54,13
+Francisco de Quevedo y Villegas,Monuments,C Lope de Vega 17,41 - Antón Martín,Calle Atocha nº 54,13
+Daniel Urrabieta Vierge,Monuments,C Huertas 28,41 - Antón Martín,Calle Atocha nº 54,13
+Abogados Laboristas,Monuments,C Atocha 55,41 - Antón Martín,Calle Atocha nº 54,13
+El Abrazo,Monuments,Pza Antón Martín ,41 - Antón Martín,Calle Atocha nº 54,13
+Francisco de Quevedo y Villegas,Monuments,C Huertas 43,41 - Antón Martín,Calle Atocha nº 54,13
+Miguel de Cervantes,Monuments,C Huertas 28,41 - Antón Martín,Calle Atocha nº 54,13
+José Echegaray y Eizaguirre,Monuments,C Huertas 24,41 - Antón Martín,Calle Atocha nº 54,13
+Miguel de Cervantes,Monuments,C Cervantes 2,41 - Antón Martín,Calle Atocha nº 54,13
+Cinematógrafo,Monuments,CARRERA SAN JERONIMO 32,28 - Sevilla,Calle Alcalá nº 27,18
+Conrado del Campo,Monuments,Ctra Aduana 16,28 - Sevilla,Calle Alcalá nº 27,18
+Conde de Peñalver,Monuments,C Gran Vía 2,28 - Sevilla,Calle Alcalá nº 27,18
+Rafael El Gallo,Monuments,C Cedaceros 3,28 - Sevilla,Calle Alcalá nº 27,18
+Centenario de la primera sesión de cine,Monuments,Ctra San Jerónimo 32,28 - Sevilla,Calle Alcalá nº 27,18
+Palacio de Miraflores,Monuments,Ctra San Jerónimo 15,28 - Sevilla,Calle Alcalá nº 27,18
+Canalejas y Méndez,Monuments,Pza Puerta del Sol 6,33 - Carretas,Calle Carretas nº 8,0
+Héroes Populares del Dos de Mayo,Monuments,Pza Puerta del Sol 8,33 - Carretas,Calle Carretas nº 8,0
+Fuentes gemelas de la Puerta del Sol,Monuments,Pza Sol ,33 - Carretas,Calle Carretas nº 8,0
+Carlos III,Monuments,Pza Puerta del Sol ,33 - Carretas,Calle Carretas nº 8,0
+Atentados 11-M,Monuments,Pza Puerta del Sol 7,33 - Carretas,Calle Carretas nº 8,0
+Antigua Iglesia y Hospital del Buen Suceso,Monuments, ,33 - Carretas,Calle Carretas nº 8,0
+Km. 0,Monuments,Pza Puerta del Sol 8,33 - Carretas,Calle Carretas nº 8,0
+Joaquín Costa,Monuments,C Barquillo 11,19 - Prim,Calle Prim nº 2,0
+Eduardo Rosales,Monuments,CALLE VALGAME DIOS 2,19 - Prim,Calle Prim nº 2,0
+Ruperto Chapí,Monuments,C Arenal 18,25b - Plaza de Celenque B,Plaza de Celenque nº 1,0
+Iglesia San Ginés,Monuments,CALLE ARENAL 13,25b - Plaza de Celenque B,Plaza de Celenque nº 1,0
+Frascuelo,Monuments,C Arenal 22,25b - Plaza de Celenque B,Plaza de Celenque nº 1,0
+Eduardo Alfonso,Monuments,C Arenal 26,25b - Plaza de Celenque B,Plaza de Celenque nº 1,0
+Fernando de Castro,Monuments,C Arenal 16,25b - Plaza de Celenque B,Plaza de Celenque nº 1,0
+Manuel García Siches,Monuments,Trav Reloj 1,116b - Plaza de España B,Calle Princesa nº 5,0
+Maestro Jacinto Guerrero,Monuments,Ctra Maestro Guerrero 2,116b - Plaza de España B,Calle Princesa nº 5,0
+Fuente de la Concha o del Nacimiento del Agua,Monuments,Pza España ,116b - Plaza de España B,Calle Princesa nº 5,0
+José García Vara,Monuments,C Arrieta 4,24 - Palacio de Oriente,Calle Carlos III nº 1,9
+Mariano José de Larra,Monuments,C Santa Clara 3,24 - Palacio de Oriente,Calle Carlos III nº 1,9
+Fuente de los Caños del Peral,Monuments,Pza Isabel II ,24 - Palacio de Oriente,Calle Carlos III nº 1,9
+Maqueta de la plazuela de los  Caños del Peral,Monuments,Pza Isabel II ,24 - Palacio de Oriente,Calle Carlos III nº 1,9
+Maqueta de los recintos amurallados de Madrid,Monuments,Pza Isabel II ,24 - Palacio de Oriente,Calle Carlos III nº 1,9
+Iglesia Ntra. Sra. Buena Dicha,Monuments,C Silva 21,2 - Miguel Moya,Calle Miguel Moya nº 1,0
+Fuente de Tudescos,Monuments,Pza Soledad Torres Acosta ,2 - Miguel Moya,Calle Miguel Moya nº 1,0
+Kymaerxthaere. Puerta de entrada a la umbraesfera,Monuments,Pza Soledad Torres Acosta ,2 - Miguel Moya,Calle Miguel Moya nº 1,0
+Iglesia Nuestra Señora Buena Dicha. Lápida conmemorativa,Monuments,C Silva 21,2 - Miguel Moya,Calle Miguel Moya nº 1,0
+Instituto Industrial Isabel II,Monuments,C Doctor Cortezo 4,34 - Jacinto Benavente,Plaza de Jacinto Benavente,21
+Manuel José Quintana,Monuments,C Marqués Viudo de Pontejos 2,34 - Jacinto Benavente,Plaza de Jacinto Benavente,21
+Galicia en Madrid,Monuments,Pza Jacinto Benavente ,34 - Jacinto Benavente,Plaza de Jacinto Benavente,21
+Barrendero madrileño,Monuments,Pza Jacinto Benavente ,34 - Jacinto Benavente,Plaza de Jacinto Benavente,21
+Bernardo López García,Monuments,C Bernardo López Garcia 9,13 - Conde Duque,Calle Conde Duque nº 22,14
+Dos columnas en la calle Conde Duque,Monuments,C Conde Duque ,13 - Conde Duque,Calle Conde Duque nº 22,14
+Clara Campoamor,Monuments,Pza Guardias de Corps ,13 - Conde Duque,Calle Conde Duque nº 22,14
+Ramón Pelayo,Monuments,C Noviciado 3,15 - San Vicente Ferrer,Calle San Vicente Ferrer nº 64,20
+Miguel Morayta Sagrario,Monuments,C Pozas 18,15 - San Vicente Ferrer,Calle San Vicente Ferrer nº 64,20
+Joven Bailando,Monuments,C Palma 49,15 - San Vicente Ferrer,Calle San Vicente Ferrer nº 64,20
+Pablo Montesino,Monuments,C San Bernardo 70,15 - San Vicente Ferrer,Calle San Vicente Ferrer nº 64,20
+Pablo Ruíz Picasso,Monuments,C San Pedro Mártir 5,43 - Jesús y María,Calle Lavapiés nº 34,10
+Alberto Aguilera,Monuments,CALLE MAGDALENA 6,43 - Jesús y María,Calle Lavapiés nº 34,10
+José Zorrilla,Monuments,C Santa Teresa 2,7 - Hortaleza,Calle Hortaleza nº 75,0
+Puente de Segovia,Monuments, Puente de Segovia ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Sagrado Corazón de Jesús,Monuments, ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Fofó,Monuments,PARQUE ATRACCIONES CASA CAMPO ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Estanque y fuente del Parque de Atracciones,Monuments,PARQUE ATRACCIONES CASA CAMPO ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Estanque circular del pabellón de Pontevedra,Monuments,Pza Puerta del Ángel ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Fuente del Canal de la Partida,Monuments,Gta Patines ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Fuente neoclásica baja en la avenida Principal de Provincias,Monuments,C Principal de Provincias ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Fuente de los Caños,Monuments,GLORIETA CAÑOS ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Fuente de las Covas,Monuments,Pº Azul ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Fuente de los Neveros,Monuments,Gta Patines ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Fuente del Plátano Gordo,Monuments,Pº Azul ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Fuente del Triángulo,Monuments,Gta Patines ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Lago de la Casa de Campo,Monuments,ESTACION DE METRO LAGO ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Parque de Atracciones,Monuments, ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Mar,Monuments, ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Remodelación embarcadero deportivo,Monuments,Pº Embarcadero ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Prensa,Monuments,C Principal de Provincias ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Reproducción de la Puerta de Bisagra de Toledo,Monuments,C Principal de Provincias (Parque de la Casa de Campo) 9,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Reproducción de la Puerta del Carmen de Zaragoza,Monuments,C Principal de Provincias ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Cruz de término,Monuments,C Principal de Provincias ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Hórreo del pabellón de Pontevedra,Monuments,C Ganadería ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Mariblanca. Réplica Casa de Campo,Monuments,C Principal de Provincias ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+"Agricultor, agricultura y progreso",Monuments,C Principal de Provincias ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Fuente neoclásica en la avenida Principal de Provincias,Monuments,C Principal de Provincias ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Beatriz Galindo 'La Latina',Monuments,Pza Puerta del Ángel ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Dos fuentes triangulares de la Casa de Campo,Monuments,C Principal de Provincias ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Estanque La Masía,Monuments,CALLE PRINCIPAL DE PROVINCIAS 2,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Fuente neoclásica en la calle Vivero,Monuments,C Principal de Provincias ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Puerta de Somosaguas,Monuments,CARRETERA SOMOSAGUAS ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Puente de La Agachadiza,Monuments,Pº Castaños ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Puerta entre Reservados,Monuments,PASEO PLATANOS ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Puente de Segovia. Panel informativo,Monuments,Pº Marqués de Monistrol 7,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Estanques Puente de Segovia,Monuments,Puente de Segovia ,216 - Puerta del Ángel,Plaza Puerta del Ángel nº 4,14
+Joaquín Costa,Monuments,Pº Pontones 8,236 - Paseo Imperial,Paseo Imperial nº 20,12
+Dodecaedro-Éter,Monuments,Pº Melancólicos ,236 - Paseo Imperial,Paseo Imperial nº 20,12
+Hexaedro o cubo-Tierra,Monuments, ,236 - Paseo Imperial,Paseo Imperial nº 20,12
+Obelisco Pasillo Verde,Monuments,C Santa María la Real de Nieva ,236 - Paseo Imperial,Paseo Imperial nº 20,12
+Obeliscos-Pirámides,Monuments,Gta Pirámides ,169 - Pirámides,Calle Toledo nº 181,5
+Fauno,Monuments, ,169 - Pirámides,Calle Toledo nº 181,5
+Estanque Toledo-Acacias,Monuments, ,169 - Pirámides,Calle Toledo nº 181,5
+Fuente Pirámides,Monuments,Gta Pirámides ,169 - Pirámides,Calle Toledo nº 181,5
+Fuente en los jardines Doña Concha Piquer,Monuments, ,169 - Pirámides,Calle Toledo nº 181,5
+Fuentes menores de Arganzuela,Monuments,PASEO YESERIAS 1,169 - Pirámides,Calle Toledo nº 181,5
+Puente de Arganzuela,Monuments, ,169 - Pirámides,Calle Toledo nº 181,5
+Obelisco de la Fuente Castellana,Monuments, ,174 - Madrid Río-Yeserías,Paseo de Yeserías nº 45,19
+Parque de la Arganzuela,Monuments, ,174 - Madrid Río-Yeserías,Paseo de Yeserías nº 45,19
+Fuentes playa Arganzuela,Monuments,Pº Yeserías ,174 - Madrid Río-Yeserías,Paseo de Yeserías nº 45,19
+Fuente Grande de Arganzuela,Monuments,Pº Yeserías ,174 - Madrid Río-Yeserías,Paseo de Yeserías nº 45,19
+Tomás Borrás Bermejo,Monuments,C Tomás Borrás 2,164 - Paseo de las Delicias,Paseo de las Delicias nº 92,7
+El Ángel Caído,Monuments,Gta Ángel Caído ,75 - Menéndez Pelayo,Avenida de Menéndez Pelayo con calle Poeta Esteban Villegas,10
+Chueca,Monuments,Pº Uruguay ,75 - Menéndez Pelayo,Avenida de Menéndez Pelayo con calle Poeta Esteban Villegas,10
+Julio Romero de Torres,Monuments,Pº Julio Romero de Torres ,75 - Menéndez Pelayo,Avenida de Menéndez Pelayo con calle Poeta Esteban Villegas,10
+Puerta de Dante del Retiro,Monuments,Pza Menéndez Pelayo ,75 - Menéndez Pelayo,Avenida de Menéndez Pelayo con calle Poeta Esteban Villegas,10
+Fuente de Mariano de Cavia,Monuments,Pza Mariano de Cavia ,75 - Menéndez Pelayo,Avenida de Menéndez Pelayo con calle Poeta Esteban Villegas,10
+Estanque e isla ovalada del Parque del Retiro,Monuments, ,75 - Menéndez Pelayo,Avenida de Menéndez Pelayo con calle Poeta Esteban Villegas,10
+Fuente de Cupido de La Rosaleda,Monuments,Pº Duque de Fernán Núñez ,75 - Menéndez Pelayo,Avenida de Menéndez Pelayo con calle Poeta Esteban Villegas,10
+Mariano de Cavia,Monuments,Pza Menéndez Pelayo ,75 - Menéndez Pelayo,Avenida de Menéndez Pelayo con calle Poeta Esteban Villegas,10
+Jacinto Benavente,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Ramón Berenguer IV,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Doctor Cortezo,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Chintila,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Fray Pedro Ponce de León,Monuments,Pº Duque de Fernán Núñez ,96 - Castelló,Calle Alcalá nº 111,8
+Urraca,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Serafín y Joaquín Álvarez Quintero,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Campoamor,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Fuente con escudo de Madrid,Monuments,Pº Bolivia ,96 - Castelló,Calle Alcalá nº 111,8
+Fuente de la Concha del Parterre,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Fuente de los Delfines del Parterre,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Ría Sur y cascada de la Chopera,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Estanque Central de La Rosaleda,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Puerta de Madrid del Retiro,Monuments,C O'Donnell ,96 - Castelló,Calle Alcalá nº 111,8
+Lucas Aguirre,Monuments,C Alcalá 62,96 - Castelló,Calle Alcalá nº 111,8
+Dados de Hormigón Parque del Retiro,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Jarrones Franceses nuevos del Parterre,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Fuente nueva de los Delfines del Parterre,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Estanque del Bosque de los Ausentes,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Fontines del jardín de los Planteles del Retiro,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Jarrones de la Rosaleda del Retiro,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Pedestal del paseo Duque de Fernán Núñez,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Fuente del Fauno de La Rosaleda,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Ría del paseo de Venezuela,Monuments,PARQUE RETIRO ,96 - Castelló,Calle Alcalá nº 111,8
+Andrés Eloy Blanco,Monuments,Pº Venezuela ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Ricardo Codorníu,Monuments,Pº Julio Romero de Torres ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Thalía,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Jacinto Verdaguer,Monuments,GLORIETA SARDANA ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Hércules y el León de Nemea,Monuments,Pº Duque de Fernán Núñez ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Puerta de los jardines del Arquitecto Herrero Palacios,Monuments,Pº Duque de Fernán Núñez ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Osos sentados de la Casa de Fieras,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Santiago Ramón y Cajal,Monuments,Pº Venezuela ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Estanques en cascada de los jardines de Cecilio Rodríguez,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Estanques largos de los jardines de Cecilio Rodríguez,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Estanque del Palacio de Cristal,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Estanques gemelos de la antigua Casa de Fieras,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Estanque pequeño de los jardines de Cecilio Rodríguez,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Fuente de la Gaviota,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Fuentes de la Bellota,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Fuente en la plaza del Mármol,Monuments,Pza Mármol ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Estanque circular de la antigua Casa de Fieras,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Fuente de la Sardana,Monuments,GLORIETA SARDANA ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Pedro Vargas,Monuments,Pº Panamá ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Laurel y Madroño,Monuments,GLORIETA SARDANA ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Enrique Tierno Galván,Monuments,Pº Duque de Fernán Núñez ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Homenaje a la Mar,Monuments,Pº Venezuela ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Pedro Sainz de Baranda y Gorriti,Monuments,CALLE ALCALDE SAINZ DE BARANDA 2,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Osos tumbados de la Casa de Fieras,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Diosa Hera,Monuments,Pº Duque de Fernán Núñez ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Columna-pedestal de los jardines de Cecilio Rodríguez,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Dos columnas en los jardines de Cecilio Rodríguez,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Estanque rústico y puente de los jardines de Cecilio Rodríguez,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Ocho columnas en los jardines de Cecilio Rodríguez,Monuments, ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Puerta de Sainz de Baranda del Retiro,Monuments,Pza Menéndez Pelayo ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Puerta del Olivar de Atocha (Jardines de Cecilio Rodríguez),Monuments,Pº Duque de Fernán Núñez ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Puerta del Doce de Octubre del Retiro,Monuments,Pza Menéndez Pelayo ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Puerta de Herrero Palacios del Retiro,Monuments,Pza Menéndez Pelayo ,70 - Puerta del Doce de Octubre,Avenida de Menéndez Pelayo nº 63,18
+Diana,Monuments,Pº Uruguay ,102 - Velázquez,Calle Alcalá nº 95,5
+Hipólito Yrigoyen,Monuments,Gta 12 de octubre de 1492 ,102 - Velázquez,Calle Alcalá nº 95,5
+Alfonso XII,Monuments,PASEO CHILE ,102 - Velázquez,Calle Alcalá nº 95,5
+Fuente de las Cuatro náyades o de las Sirenas,Monuments, ,102 - Velázquez,Calle Alcalá nº 95,5
+Fuente Egipcia,Monuments,Pº Venezuela ,102 - Velázquez,Calle Alcalá nº 95,5
+Estanque grande del Retiro,Monuments,Pº Estanque (Parque del Retiro) ,102 - Velázquez,Calle Alcalá nº 95,5
+Fuente de Isabel II o de los galápagos,Monuments,PLAZA NICARAGUA 1,102 - Velázquez,Calle Alcalá nº 95,5
+Fuente del pequeño tritón,Monuments, ,102 - Velázquez,Calle Alcalá nº 95,5
+Puerta de Hernani del Retiro,Monuments,C Alcalá 62,102 - Velázquez,Calle Alcalá nº 95,5
+Embarcadero del Estanque del Retiro,Monuments,Pº Estanque (Parque del Retiro) ,102 - Velázquez,Calle Alcalá nº 95,5
+Cruceiro de la plaza de Galicia,Monuments,Pza Galicia ,102 - Velázquez,Calle Alcalá nº 95,5
+Juan Van-Halen y Sarti,Monuments,Pº Colombia ,102 - Velázquez,Calle Alcalá nº 95,5
+Quiosco de Música del Retiro,Monuments,Pza Maestro Villa ,102 - Velázquez,Calle Alcalá nº 95,5
+Fuente de la Salud del Retiro,Monuments, ,102 - Velázquez,Calle Alcalá nº 95,5
+Ría del paseo de Colombia,Monuments,PASEO COLOMBIA 1,102 - Velázquez,Calle Alcalá nº 95,5
+Fuente de la Gruta,Monuments,PASEO SALON DEL ESTANQUE ,102 - Velázquez,Calle Alcalá nº 95,5
+Miguel Moya,Monuments,Pº Duque de Fernán Núñez ,74 - Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,8
+Cecilio Rodríguez,Monuments, ,74 - Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,8
+Hércules y la Hidra de Lerna,Monuments,Pº Duque de Fernán Núñez ,74 - Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,8
+Estanque del jardín de Vivaces,Monuments, ,74 - Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,8
+Puerta de Granada del Retiro,Monuments,Pza Menéndez Pelayo ,74 - Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,8
+Puerta del Niño Jesús del Retiro,Monuments,Pza Menéndez Pelayo ,74 - Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,8
+Fuente del Barrio del Niño Jesús,Monuments,Pza Menéndez Pelayo ,74 - Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,8
+Puerta secundaria jardines Cecilio Rodríguez,Monuments,Pº Uruguay ,74 - Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,8
+Puerta sur de los jardines de Cecilio Rodríguez,Monuments,Pº Uruguay ,74 - Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,8
+Puerta del pabellón de los Jardines Cecilio Rodríguez,Monuments,Pº Uruguay ,74 - Puerta del Pacífico ,Avenida de Menéndez Pelayo nº 73,8
+General Vara de Rey y Héroes del Caney,Monuments,Avda Ciudad de Barcelona 4,119 - Méndez Álvaro,Calle Méndez Álvaro nº 11,4
+Fuente Amanecer,Monuments,Pza Amanecer en Méndez Álvaro ,119 - Méndez Álvaro,Calle Méndez Álvaro nº 11,4
+Fuente de la Puerta de la Independencia,Monuments,Pº México ,60 - Plaza de la Independencia,Plaza de la Independencia nº 6,18
+Puerta de la Independencia del Retiro,Monuments,Pza Independencia ,60 - Plaza de la Independencia,Plaza de la Independencia nº 6,18
+José Ortega y Gasset,Monuments,CALLE ALFONSO XII 4,60 - Plaza de la Independencia,Plaza de la Independencia nº 6,18
+Luis de Góngora,Monuments, ,60 - Plaza de la Independencia,Plaza de la Independencia nº 6,18
+Puerta de Alcalá,Monuments,Pza Independencia ,60 - Plaza de la Independencia,Plaza de la Independencia nº 6,18
+Plácido Domingo,Monuments,C Ibiza 34,71 - Doce de Octubre,Calle Doce de Octubre nº 28,5
+Niño con caracola,Monuments,Pza Doctor Laguna 1,71 - Doce de Octubre,Calle Doce de Octubre nº 28,5
+Carlos y Guillermo Fernández-Shaw,Monuments,C Carlos y Guillermo Fernández Shaw ,77 - Conde de Casal,Plaza del Conde de Casal nº 8,2
+Agustín de Foxá,Monuments,C Ibiza 1,181 - Retiro-Ibiza,Calle Ibiza nº 18,10
+Puerta de la Reina Mercedes del Retiro,Monuments,Pza Menéndez Pelayo ,181 - Retiro-Ibiza,Calle Ibiza nº 18,10
+Santiago Ramón y Cajal,Monuments,C Alfonso XII 64,80b - Atocha B,Paseo de la Infanta Isabel nº 3,23
+Día y Noche,Monuments, ,80b - Atocha B,Paseo de la Infanta Isabel nº 3,23
+Enrique Iniesta,Monuments,PARQUE QUINTA FUENTE DEL BERRO ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Alexandr Pushkin,Monuments,PARQUE QUINTA FUENTE DEL BERRO ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Gustavo Adolfo Bécquer,Monuments, ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Ría Chica,Monuments, ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Estanque para patos del parque Fuente del Berro,Monuments, ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Fuente del Berro,Monuments,C Peñascales ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Fuente circular del parque Fuente del Berro,Monuments, ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Fuente en la entrada principal del parque Fuente del Berro,Monuments, ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Fuentes gemelas del parque Fuente del Berro,Monuments, ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Fuente mural en cascada,Monuments, ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Fuente mural con escudo de Madrid,Monuments, ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Fuente con surtidor del parque Fuente del Berro,Monuments,PARQUE QUINTA FUENTE DEL BERRO ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+José Padilla,Monuments,C Gabriel Abreu 11,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Abstracta I,Monuments, ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Abstracta II,Monuments, ,185 - Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,13
+Marqués del Duero,Monuments,PLAZA DOCTOR MARAÑON ,139 - José Gutiérrez Abascal ,Calle José Gutiérrez Abascal nº 2,6
+José Salamanca de Mayol (marqués de Salamanca),Monuments,Pza Marqués de Salamanca ,186 - General Pardiñas,Calle General Pardiñas nº 56,6
+Emilio Castelar,Monuments,GLORIETA EMILIO CASTELAR ,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,5
+Un món per a infants,Monuments,PASEO CASTELLANA 41,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,5
+La petite Faucille,Monuments,PASEO CASTELLANA 41,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,5
+Estructuración hiperpoliédrica del espacio,Monuments,PASEO CASTELLANA 41,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,5
+Ramón María del Valle-Inclán,Monuments,C General Oraa 9,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,5
+Proalí,Monuments,PASEO CASTELLANA 41,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,5
+Placa informativa Museo al Aire Libre,Monuments,PASEO CASTELLANA 41,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,5
+Newton y dolmen de Dalí,Monuments,Pza Dalí ,100 - Palacio de Deportes,Calle Goya nº 99,21
+Olivo en bronce,Monuments,Pza Dalí ,100 - Palacio de Deportes,Calle Goya nº 99,21
+Fuente circular del parque María Eva Duarte de Perón,Monuments, ,145 - Ortega y Gasset 87,Calle Ortega y Gasset nº 87,1
+Antigua Fuente de las Delicias,Monuments, ,145 - Ortega y Gasset 87,Calle Ortega y Gasset nº 87,1
+Florestán Aguilar,Monuments,C Florestán Aguilar 1,145 - Ortega y Gasset 87,Calle Ortega y Gasset nº 87,1
+Eva Perón,Monuments,Avda Francisco Silvela 4,145 - Ortega y Gasset 87,Calle Ortega y Gasset nº 87,1
+Alejandro Busuioceanu,Monuments,C General Pardiñas 32,91 - Príncipe de Vergara,Calle Hermosilla nº 70,5
+Armando Palacio Valdés,Monuments,CALLE MALDONADO 25,190 - Velázquez-Diego de León,Calle Velázquez nº 91,3
+José Calvo Sotelo,Monuments,C Velázquez 89,190 - Velázquez-Diego de León,Calle Velázquez nº 91,3
+Luis Carrero Blanco,Monuments,CALLE CLAUDIO COELLO 129,190 - Velázquez-Diego de León,Calle Velázquez nº 91,3
+Diego de Silva Velázquez,Monuments,C Juan Bravo ,190 - Velázquez-Diego de León,Calle Velázquez nº 91,3
+Amigos,Monuments,Pza Alfredo Mahou de la Fuente ,190 - Velázquez-Diego de León,Calle Velázquez nº 91,3
+Dinastía torera Bienvenida,Monuments,C Príncipe de Vergara 3,97 - Alcalá,Avenida de Menéndez Pelayo nº 3,7
+Guillermo Fernández Shaw,Monuments,C Claudio Coello 60,105 - Serrano,Calle Serrano nº 54,5
+Manuel Azaña,Monuments,C Serrano 40,105 - Serrano,Calle Serrano nº 54,5
+Rubén Darío,Monuments,CALLE SERRANO 31,105 - Serrano,Calle Serrano nº 54,5
+Doctor Gómez Ulla,Monuments,C Doctor Gómez Ulla 2,108 - Mártires Concepcionistas,Calle Mártires Concepcionistas nº 2,6
+Camilo José Cela,Monuments,C Alcalá 185,108 - Mártires Concepcionistas,Calle Mártires Concepcionistas nº 2,6
+Mariano Gómez Ulla,Monuments,PASEO CASTELLANA 12,104 - Castellana,Paseo de la Castellana nº 4,11
+Pedro Muñoz Seca,Monuments,C Velázquez 57,87 - Ayala,Calle Ayala nº 44,1
+Serafín y Joaquín Álvarez Quintero,Monuments,C Velázquez 76,88 - Embajada de Italia,Calle Velázquez nº 75,0
+Daniel Vázquez Díaz,Monuments,C María de Molina 66,194 - Avenida de América 2,Calle Francisco Silvela nº 86,3
+Alfonso R. Castelao,Monuments, ,240 - Avenida Brasilia,Avenida de Brasilia frente al nº 9,6
+Cruceiro del parque de Breogán,Monuments, ,240 - Avenida Brasilia,Avenida de Brasilia frente al nº 9,6
+Fuente en la avenida de Brasilia,Monuments,Avda Brasilia ,240 - Avenida Brasilia,Avenida de Brasilia frente al nº 9,6
+Ivo Andric,Monuments,C Velázquez 27,90 - General Pardiñas,Calle Goya nº 18,4
+Pedro Escartín,Monuments,C Hermosilla 36,90 - General Pardiñas,Calle Goya nº 18,4
+Álvaro Iglesias Sánchez,Monuments,PARQUE BERLIN ,197 - Parque Berlín,Avenida de Concha Espina nº 34,5
+Oso de Berlín,Monuments,PARQUE BERLIN ,197 - Parque Berlín,Avenida de Concha Espina nº 34,5
+Beethoven,Monuments,PARQUE BERLIN ,197 - Parque Berlín,Avenida de Concha Espina nº 34,5
+Estanque del parque de Berlín,Monuments,PLAZA VIRGEN GUADALUPANA ,197 - Parque Berlín,Avenida de Concha Espina nº 34,5
+Fuente del parque de Berlín,Monuments,PARQUE BERLIN ,197 - Parque Berlín,Avenida de Concha Espina nº 34,5
+Monolito del parque de Berlín,Monuments,PARQUE BERLIN ,197 - Parque Berlín,Avenida de Concha Espina nº 34,5
+Muro de Berlín,Monuments,PLAZA VIRGEN GUADALUPANA ,197 - Parque Berlín,Avenida de Concha Espina nº 34,5
+Fuente Virgen Guadalupana,Monuments,PLAZA VIRGEN GUADALUPANA ,197 - Parque Berlín,Avenida de Concha Espina nº 34,5
+Fuente de los Delfines,Monuments,PLAZA REPUBLICA ARGENTINA 1,137 - Plaza de la República Argentina,Plaza de la República Argentina nº 6,5
+República Argentina,Monuments,PLAZA REPUBLICA ARGENTINA 6,137 - Plaza de la República Argentina,Plaza de la República Argentina nº 6,5
+Enrique Larreta,Monuments,CALLE ENRIQUE LARRETA 1,208 - Plaza de Castilla,Paseo de la Castellana nº 216,4
+Fuente en la calle Agustín de Foxá,Monuments,CALLE AGUSTIN DE FOXA 1,208 - Plaza de Castilla,Paseo de la Castellana nº 216,4
+Ramón Pérez de Ayala,Monuments,CALLE GABRIEL LOBO 11,146 - María Francisca 1,Calle María Francisca nº 1,3
+Andrés Segovia,Monuments,PLAZA ANDRES SEGOVIA 1,146 - María Francisca 1,Calle María Francisca nº 1,3
+Pablo Sorozábal,Monuments,CALLE PRINCIPE DE VERGARA 141,146 - María Francisca 1,Calle María Francisca nº 1,3
+Gregorio Ordóñez,Monuments,CALLE PRINCIPE DE VERGARA 142,146 - María Francisca 1,Calle María Francisca nº 1,3
+Homenaje a la Música,Monuments,PLAZA ANDRES SEGOVIA 1,146 - María Francisca 1,Calle María Francisca nº 1,3
+Fuente de fundición en la calle Duque de Sevilla,Monuments,CALLE DUQUE DE SEVILLA 7,146 - María Francisca 1,Calle María Francisca nº 1,3
+Junta Municipal de Chamartín,Monuments,CALLE PRINCIPE DE VERGARA 142,146 - María Francisca 1,Calle María Francisca nº 1,3
+Marceliano Santa María,Monuments,CALLE ABEL 15,237 - Pablo Iglesias,Calle Francisco Balseiro nº 1,1
+Ría Grande de Don Quijote,Monuments,Avda Doctor Federico Rubio y Galí ,237 - Pablo Iglesias,Calle Francisco Balseiro nº 1,1
+Plaza de Toros de Tetuán,Monuments,CALLE BRAVO MURILLO 297,206 - Metro Tetuán,Calle Marqués de Viana nº 3,5
+Loreto Prado (réplica),Monuments,PLAZA CHAMBERI 1,124 - Manuel Silvela,Calle Manuel Silvela nº 20,18
+Francisco Largo Caballero,Monuments,PLAZA CHAMBERI 4,124 - Manuel Silvela,Calle Manuel Silvela nº 20,18
+Fuente plaza de Chamberí,Monuments,PLAZA CHAMBERI 1,124 - Manuel Silvela,Calle Manuel Silvela nº 20,18
+El Racing Club a los héroes de África,Monuments,PLAZA CHAMBERI 4,124 - Manuel Silvela,Calle Manuel Silvela nº 20,18
+Fuente plaza de Olavide,Monuments,PLAZA OLAVIDE 1,124 - Manuel Silvela,Calle Manuel Silvela nº 20,18
+Saineteros madrileños,Monuments,CALLE LUCHANA 1,5 - Fuencarral,Calle Fuencarral nº 108,25
+Cardenal Cisneros,Monuments,CALLE CARDENAL CISNEROS 2,5 - Fuencarral,Calle Fuencarral nº 108,25
+Ignacio de Valentín-Gamazo,Monuments,CALLE LUCHANA 1,5 - Fuencarral,Calle Fuencarral nº 108,25
+Fuente en la glorieta de Bilbao,Monuments,Gta Bilbao ,5 - Fuencarral,Calle Fuencarral nº 108,25
+Fuente en la plaza Conde Valle de Suchil,Monuments,PLAZA CONDE DEL VALLE DE SUCHIL 1,3 - Plaza Conde Suchil,Plaza del Conde del Valle de Súchil nº 3,9
+Antonio Machado,Monuments,CALLE GENERAL ARRANDO 4,122 - Santa Engracia 14,Calle Santa Engracia nº 14,15
+Maestro Alonso,Monuments,C Hermanos Álvarez Quintero 30,122 - Santa Engracia 14,Calle Santa Engracia nº 14,15
+Jose María Roquero Vera,Monuments,CALLE ELOY GONZALO 38,246 - Santa Engracia 87,Calle Santa Engracia nº 87,9
+José Nogales,Monuments,CALLE SANTA ENGRACIA 50,246 - Santa Engracia 87,Calle Santa Engracia nº 87,9
+Gregorio Marañón,Monuments,PASEO CASTELLANA 53,247 - Zurbano,Calle Zurbano nº 90,7
+Pablo Luna,Monuments,CALLE SANDOVAL 6,4 - Malasaña,Calle Manuela Malasaña nº 5,23
+Álvaro Iglesias Sánchez,Monuments,CALLE CARRANZA 7,4 - Malasaña,Calle Manuela Malasaña nº 5,23
+Pablo Neruda,Monuments,CALLE HILARION ESLAVA 2,111a - Arcipreste de Hita A,Calle Arcipreste de Hita nº 12,5
+Francisco Villaespesa,Monuments,CALLE GALILEO 12,57 - Santa Cruz del Marcenado,Calle Santa Cruz del Marcenado nº 24,17
+Alejandro Muñoz Revenga,Monuments,CALLE MELENDEZ VALDES 1,127 - Fernando el Católico,Calle Fernando el Católico nº 19,10
+Agustín Argüelles,Monuments,Pza Marqués de Cerralbo ,115 - Ferraz,Calle Evaristo San Miguel nº 2,0
+Caídos del Cuartel de la Montaña,Monuments,C Ferraz ,115 - Ferraz,Calle Evaristo San Miguel nº 2,0
+"Templo de Debod, estanque con Surtidor",Monuments, ,115 - Ferraz,Calle Evaristo San Miguel nº 2,0
+Parque de la Montaña,Monuments, ,115 - Ferraz,Calle Evaristo San Miguel nº 2,0
+Reproducción de capitel egipcio,Monuments, ,115 - Ferraz,Calle Evaristo San Miguel nº 2,0
+Fuente del paseo Pintor Rosales,Monuments,Pº Pintor Rosales ,115 - Ferraz,Calle Evaristo San Miguel nº 2,0
+Monumento a las víctimas de la Aviación Militar Española,Monuments,C Princesa 87,111b - Arcipreste de Hita B,Calle Arcipreste de Hita nº 12,9
+Héroes del Plus Ultra,Monuments,C Princesa 92,111b - Arcipreste de Hita B,Calle Arcipreste de Hita nº 12,9
+Eduardo Lozano y Ponce de León,Monuments,Pza Doctor Lozano ,225 - Doctor Lozano,Calle Sierra Toledana nº 33,9
+Doctor Conde Arruga,Monuments,C Hacienda de Pavones 105,219 - Marroquina,Calle Camino de los Vinateros nº 108,16
+Toros de Guisando,Monuments, ,219 - Marroquina,Calle Camino de los Vinateros nº 108,16
+Fuente del Corregidor,Monuments,Pza Corregidor Alonso de Tobar s/n,219 - Marroquina,Calle Camino de los Vinateros nº 108,16
+Estanque jardines de Dionisio Ridruejo,Monuments, ,219 - Marroquina,Calle Camino de los Vinateros nº 108,16
+Fuente del parque de Moratalaz,Monuments, ,219 - Marroquina,Calle Camino de los Vinateros nº 108,16
+Fuente principal del parque de Moratalaz,Monuments, ,219 - Marroquina,Calle Camino de los Vinateros nº 108,16
+Fuente con ría del parque de Moratalaz,Monuments, ,219 - Marroquina,Calle Camino de los Vinateros nº 108,16
+Dionisio Ridruejo,Monuments, ,219 - Marroquina,Calle Camino de los Vinateros nº 108,16
+Vías de tren,Monuments, ,219 - Marroquina,Calle Camino de los Vinateros nº 108,16
+Monumento a Adolfo Suárez,Monuments,C Marroquina 42,219 - Marroquina,Calle Camino de los Vinateros nº 108,16
+Corral de Comedias,Monuments,Pza La Corrala ,53 - Plaza de Lavapiés,Calle Valencia nº 1,15
+Escultura de chapa Centro Cultural Islámico,Monuments,C Salvador de Madariaga 9,231 - Derechos Humanos,Calle Derechos Humanos nº 12,6
+Fuente de Esteban Mora,Monuments,C Esteban Mora 43,231 - Derechos Humanos,Calle Derechos Humanos nº 12,6
+Fauna Mayor Ibérica III,Monuments,C Arturo Soria ,214 - Condesa de Venadito,Calle Condesa de Venadito nº 2,10
+Estanque Arturo Soria III,Monuments,C Arturo Soria 176,214 - Condesa de Venadito,Calle Condesa de Venadito nº 2,10
+Centro Cultural San Juan Bautista,Monuments,C San Nemesio 4,214 - Condesa de Venadito,Calle Condesa de Venadito nº 2,10
+Palacete Villa Rosa,Monuments,Ctra Canillas 2,214 - Condesa de Venadito,Calle Condesa de Venadito nº 2,10
+Fuente de la Junta Municipal de Hortaleza,Monuments,Ctra Canillas 2,214 - Condesa de Venadito,Calle Condesa de Venadito nº 2,10
+Arturo Duperier Vallesa,Monuments,CALLE VIRGEN DEL PORTILLO 37,229 - C.D. Concepción,Calle Jose del Hierro nº 5,19
+Fuente plaza Reverencia,Monuments,Pza Reverencia ,229 - C.D. Concepción,Calle Jose del Hierro nº 5,19
+Manuel Alonso Martínez,Monuments,PLAZA ALONSO MARTINEZ 2,8 - Alonso Martínez,Plaza de Alonso Martínez nº 5,22
+Fuente plaza Alonso Martínez,Monuments,PLAZA ALONSO MARTINEZ 1,8 - Alonso Martínez,Plaza de Alonso Martínez nº 5,22
+Homenaje a Lissitzky,Monuments,Pº Pirala ,188 - Puente de Ventas,Avenida de Daroca nº 2,16
+Fuente Ricardo Ortiz,Monuments,C Ricardo Ortiz 2,188 - Puente de Ventas,Avenida de Daroca nº 2,16
+Fuente Pirala I,Monuments,Pº Pirala ,188 - Puente de Ventas,Avenida de Daroca nº 2,16
+Fuente Pirala II,Monuments,Pº Pirala ,188 - Puente de Ventas,Avenida de Daroca nº 2,16
+Fuente Virgen de la Alegría,Monuments,C Virgen de la Alegría 15,188 - Puente de Ventas,Avenida de Daroca nº 2,16
+J. Marciano Barbero Matos,Monuments,PLAZA COLEGIO ATENEO POLITECNICO ,196 - Prosperidad,Calle Suero de Quiñones nº 2,8
+Oso y Madroño,Monuments,PLAZA PROSPERIDAD 1,196 - Prosperidad,Calle Suero de Quiñones nº 2,8
+Luis Rosales,Monuments,CALLE ALTAMIRANO 34,117 - Altamirano,Calle Altamirano nº 24,10
+Organización Mundial Turismo,Monuments,CALLE GENERAL YAGÜE 1,238 - San Germán 5,Calle San Germán nº 5,3
+Federico García Lorca,Monuments,C Alcalá 96,98 - Plaza de Felipe II,Plaza de Felipe II,23
+Francisco de Goya,Monuments,C Alcalá ,98 - Plaza de Felipe II,Plaza de Felipe II,23
+Fuente de los Libros,Monuments,Pza Dalí ,98 - Plaza de Felipe II,Plaza de Felipe II,23
+Losas de bronce sobre pavimento en la plaza Dalí,Monuments,Pza Dalí ,98 - Plaza de Felipe II,Plaza de Felipe II,23
+Virgen del Pilar,Monuments,C Juan Bravo ,144 - Juan Bravo 50,Calle Juan Bravo nº 50,6
+Víctimas del terrorismo,Monuments,Avda Peña Prieta ,179 - Puente de Vallecas,Avenida de la Albufera nº 6,13
+Los Paseantes,Monuments,C Peña Gorbea ,179 - Puente de Vallecas,Avenida de la Albufera nº 6,13
+José Rizal Mercado,Monuments,CALLE SANTANDER 1,202 - Parque Santander,Calle Santander esquina con Avenida de Filipinas,3
+Los Pegasos,Monuments,Pza Legazpi ,177 - Legazpi,Calle Bolívar nº 3,14
+Fuentes de Embajadores,Monuments,C Embajadores ,47 - Embajadores 1,Glorieta de Embajadores nº 6,10
+Obelisco Laus Deo I,Monuments,C Bustamante 2,172 - Delicias,Calle Bustamante nº 1,7
+Octaedro-Aire,Monuments,GLORIETA SANTA MARIA DE LA CABEZA 1,121 - Santa María de la Cabeza,Paseo de Santa María de la Cabeza nº 58,5
+Fuente Santa María de la Cabeza,Monuments,Gta Santa María de la Cabeza ,121 - Santa María de la Cabeza,Paseo de Santa María de la Cabeza nº 58,5
+Icosaedro-Agua,Monuments,Pº Doctor Vallejo Nájera ,170 - Paseo de la Esperanza,Paseo de la Esperanza nº 21,9
+Pirámides del parque Peñuelas,Monuments,Pº Esperanza ,170 - Paseo de la Esperanza,Paseo de la Esperanza nº 21,9
+Fuentes piramidales,Monuments, ,170 - Paseo de la Esperanza,Paseo de la Esperanza nº 21,9
+Elemento mecánico ferroviario,Monuments,C Arganda 9,170 - Paseo de la Esperanza,Paseo de la Esperanza nº 21,9
+Tetraedro-Fuego,Monuments, ,162 - Metro Pirámides,Paseo de los Olmos nº 28,9
+Obelisco Laus Deo II,Monuments,Pza Ortega y Munilla ,162 - Metro Pirámides,Paseo de los Olmos nº 28,9
+Fuente en la avenida de Daroca,Monuments,Avda Daroca ,234 - Marqués de Corbera 52,Avenida Marqués de Corbera nº 52,18
+Fuente ornamental General Maroto,Monuments,Pza General Maroto ,165 - Entrada Matadero,Paseo de la Chopera nº 14,1
+Fuentes de la Junta de la Arganzuela,Monuments,Pº Chopera 10,165 - Entrada Matadero,Paseo de la Chopera nº 14,1
+Cañas silbadoras,Monuments,CALLE CEA BERMUDEZ 50,128 - Cea Bermúdez,Calle Cea Bermúdez nº 59,4
+Fuente plaza Juan Zorrilla,Monuments,PLAZA JUAN ZORRILLA 1,131 - Bravo Murillo 44,Calle Bravo Murillo nº 44,4
+Pablo Iglesias,Monuments,AVENIDA PABLO IGLESIAS 2,131 - Bravo Murillo 44,Calle Bravo Murillo nº 44,4
+Fuente circular en la calle Gasómetro,Monuments,Pº Doctor Vallejo Nájera s/n,163 - Paseo de la Esperanza,Paseo de la Esperanza nº 2,0
+Rafael de León,Monuments,CALLE MAIQUEZ 12,62 - O'Donnell,Calle O'Donnell nº 50,5
+Fuente en la avenida de Brasil,Monuments,AVENIDA BRASIL 1,154 - Orense 36,Calle Orense nº 36,11
+Machado de Assis,Monuments,AVENIDA BRASIL 1,154 - Orense 36,Calle Orense nº 36,11
+Fuente plaza José Banús,Monuments,Pza José Banús ,189 - Avenida Donostiarra,Calle Virgen de la Alegría nº 18,16
+Fuente del parque Calero,Monuments, ,189 - Avenida Donostiarra,Calle Virgen de la Alegría nº 18,16
+Fuente en la plaza Beata María Ana de Jesús II,Monuments,Pza Beata María Ana de Jesús ,176 - Beata,Calle Alicante nº 3,12
+Fuente en la plaza Beata María Ana de Jesús I,Monuments,Pza Beata María Ana de Jesús ,176 - Beata,Calle Alicante nº 3,12
+Joven Caminando,Monuments,Pza San Ildefonso ,55 - Plaza de San Ildefonso,Plaza de San Ildefonso,22
+Corredera Baja de San Pablo,Monuments,Cdra Baja San Pablo 28,55 - Plaza de San Ildefonso,Plaza de San Ildefonso,22
+Manos,Monuments,PLAZA REPUBLICA DE EL SALVADOR ,148 - Serrano 210,Calle Serrano nº 210,6
+Bernardino de Obregón,Monuments,C Bernardino Obregón 1,49 - Casa Encendida,Ronda de Atocha nº 34,22
+Fuente del parque de Roma,Monuments, ,182 - Parque Roma,Calle Alcalde Sáinz de Baranda frente al nº 107,2
+Altar Parque de Roma,Monuments,C Juan Esplandiú ,182 - Parque Roma,Calle Alcalde Sáinz de Baranda frente al nº 107,2
+Templete de música del parque de Roma,Monuments,C Juan Esplandiú ,182 - Parque Roma,Calle Alcalde Sáinz de Baranda frente al nº 107,2
+Fuente en la calle Canarias,Monuments,C Canarias 52,118 - Juan Martín,Calle Juan Martín el Empecinado nº 16,18
+Estanque lineal en seis tramos del parque de las  Delicias,Monuments,C Párroco Eusebio Cuenca ,118 - Juan Martín,Calle Juan Martín el Empecinado nº 16,18
+Fuente en la calle Argumosa,Monuments,C Argumosa ,51 - Ronda de Atocha,Ronda de Atocha nº 2,11
+Clara del Rey,Monuments,CALLE CLARA DEL REY 1,195 - Avenida de América 1,Calle Padre Indalecio Hernández nº 1,2
+Restos escultóricos,Monuments,CALLE JOAQUIN MARIA LOPEZ 1,245 - Galileo,Calle Galileo nº 63,13
+Tras Julia,Monuments,C Pez 42,16 - San Bernardo,Calle San Bernardo nº 22,17
+Puerta de los Cuarteles de Daoiz y Velarde,Monuments,Avda Ciudad de Barcelona 164,178 - Junta Municipal Retiro,Calle León Gil de Palacio nº 3,7
+Víctimas de los atentados del 11 de marzo de 2004,Monuments,Avda Ciudad de Barcelona 164,178 - Junta Municipal Retiro,Calle León Gil de Palacio nº 3,7
+Fuente de los Cuarteles de Daoiz y Velarde,Monuments,Avda Ciudad de Barcelona 160,178 - Junta Municipal Retiro,Calle León Gil de Palacio nº 3,7
+Lámina de agua,Monuments,C Príncipe de Vergara 66,143 - Diego de León 52,Calle Diego de León nº 52,16
+Lhardy,Monuments,Ctra San Jerónimo 8,1b - Puerta del Sol B,Puerta del Sol nº 1,0
+Antigua pastelería del Pozo,Monuments,C Pozo 8,1b - Puerta del Sol B,Puerta del Sol nº 1,0
+Restauración iglesia de Montserrat,Monuments,C San Bernardo 79,12 - San Hermenegildo,Calle San Bernardo nº 85,18
+Iglesia de Montserrat,Monuments,C San Bernardo 79,12 - San Hermenegildo,Calle San Bernardo nº 85,18
