@@ -15,19 +15,14 @@ To run the app, follow these steps:
 
 1. Open a terminal (Command Prompt or PowerShell for Windows, Terminal for macOS or Linux)
 
-2. Ensure Git is installed  
-Visit https://git-scm.com to download and install console Git if not already installed
+2. Ensure Git is installed. Visit https://git-scm.com to download and install console Git if not already installed
 
-3. Clone the repository  
-git clone https://github.com/Kristinawk/project_m1
+3. Clone the repository `git clone https://github.com/Kristinawk/project_m1`  
 
-4. *Only for developers - Re-create the full table  
-`python main.py -f "calc"`
+4. *Only for developers - Re-create the full table `python main.py -f "calc"`
 
 5. Launch the query  
- a) get the full table  
- `python main.py -f "table"`  
+ a) get the full table `python main.py -f "table"`
 
- b) get the table for a specific place of interest  
- `python main.py -f "place"`
+ b) get the table for a specific place of interest `python main.py -f "place"`
 
