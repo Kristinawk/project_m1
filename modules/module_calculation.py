@@ -3,15 +3,16 @@ import pandas as pd
 import requests
 from shapely.geometry import Point
 import geopandas as gpd
+from modules import module_definitions as md
 
-PATH_DATASOURCE = './data/bicimad_stations.csv'
-GEO = 'geometry.coordinates'
-API_ENDPOINT="https://datos.madrid.es/egob"
-DATASET="/catalogo/300356-0-monumentos-ciudad-madrid.json"
-COLUMNS_2FIX = ["address", "location", "organization"]
-TABLE_COLS = ['Place of Interest', 'Type of place', 'Place address', 'BiciMAD station', 'Station locaiton', 'Available bikes']
-PLACE = 'Monuments'
-PATH_OUTPUT = './data/nearest_bicimad.csv'
+#PATH_DATASOURCE = './data/bicimad_stations.csv'
+#GEO = 'geometry.coordinates'
+#API_ENDPOINT="https://datos.madrid.es/egob"
+#DATASET="/catalogo/300356-0-monumentos-ciudad-madrid.json"
+#COLUMNS_2FIX = ["address", "location", "organization"]
+#TABLE_COLS = ['Place of Interest', 'Type of place', 'Place address', 'BiciMAD station', 'Station locaiton', 'Available bikes']
+#PLACE = 'Monuments'
+#PATH_OUTPUT = './data/nearest_bicimad.csv'
 
 # 2. Acquisition & Wrangling:
 # 2.a) Read & transform csv
@@ -38,9 +39,9 @@ def get_dataset(api_endpoint, dataset):
     df_dataset = pd.DataFrame(json_data["@graph"]) # the data that we need is stored in key "@graph" within json
     return df_dataset
 
-def normalize_dataset(df):
+def normalize_dataset(df, columns_list):
     df = df.dropna() # 1 drop nulls
-    for column in COLUMNS_2FIX: # 2 normalize dictionaries within columns
+    for column in columns_list: # 2 normalize dictionaries within columns
         df = pd.concat([df.drop(columns = [column]), df[column].apply(pd.Series)], axis = 1)
     return df
 
