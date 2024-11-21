@@ -1,14 +1,14 @@
-# FindBiciMAD
+# BiciMAD2go
 
 # About:
-FindBiciMAD is a Python Application that allows potential user to find the nearest BiciMad station to a set of places of interest. The app creates a table with relevant information and provides two use cases to the end user: access to the full table or filter the table by specific place of interest.
-FindBiciMAD holds the benefit of **modularity**, allowing to execute the pipeline in two steps, which significantly improves user experience.
+BiciMAD2go is a Python Application that allows potential user to find the nearest BiciMad station to a set of places of interest. The app creates a table with relevant information and provides two use cases to the end user: access to the full table or filter the table by specific place of interest.
+BiciMAD2go holds the benefit of **modularity**, allowing to execute the pipeline in two steps, which significantly improves user experience.
 
 # Technical specifications:
 The input of this app is a csv file with the list of BiciMAD stations and Madrid City Hall API REST with a set of places of interest. Python script combines the information of both datasources, calculates the distance to each BiciMad station and returns the nearest one to each place of interest. The table is stored as csv file and the user can access this information with argparse method.
 
 # Configuration:
-Hereby the list of libraries required to run FindBiciMAD: pandas, requests, geopandas and argparse.
+Hereby the list of libraries required to run BiciMAD2go: pandas, requests, geopandas and argparse.
 
 # How to build:
 To run the app, follow these steps:
